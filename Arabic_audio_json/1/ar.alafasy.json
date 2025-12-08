@@ -11,7 +11,7 @@
     "ayahs": [
       {
         "number": 1,
-        "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
+        "audio": "https://everyayah.com/data/Alafasy_128kbps/001001.mp3",
         "audioSecondary": [
           "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1.mp3"
         ],
@@ -32,7 +32,7 @@
       },
       {
         "number": 2,
-        "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2.mp3",
+        "audio": "https://everyayah.com/data/Alafasy_128kbps/001002.mp3",
         "audioSecondary": [
           "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2.mp3"
         ],
@@ -53,7 +53,7 @@
       },
       {
         "number": 3,
-        "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3.mp3",
+        "audio": "https://everyayah.com/data/Alafasy_128kbps/001003.mp3",
         "audioSecondary": [
           "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3.mp3"
         ],
@@ -74,7 +74,7 @@
       },
       {
         "number": 4,
-        "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4.mp3",
+        "audio": "https://everyayah.com/data/Alafasy_128kbps/001004.mp3",
         "audioSecondary": [
           "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4.mp3"
         ],
@@ -95,7 +95,7 @@
       },
       {
         "number": 5,
-        "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5.mp3",
+        "audio": "https://everyayah.com/data/Alafasy_128kbps/001005.mp3",
         "audioSecondary": [
           "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5.mp3"
         ],
@@ -116,7 +116,7 @@
       },
       {
         "number": 6,
-        "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6.mp3",
+        "audio": "https://everyayah.com/data/Alafasy_128kbps/001006.mp3",
         "audioSecondary": [
           "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6.mp3"
         ],
@@ -137,7 +137,7 @@
       },
       {
         "number": 7,
-        "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/7.mp3",
+        "audio": "https://everyayah.com/data/Alafasy_128kbps/001007.mp3",
         "audioSecondary": [
           "https://cdn.islamic.network/quran/audio/64/ar.alafasy/7.mp3"
         ],
