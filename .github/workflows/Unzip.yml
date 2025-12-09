@@ -1,0 +1,32 @@
+name: Unzip ZIP into Repo
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  unzip_job:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Install unzip tool
+      run: sudo apt-get install unzip -y
+
+    - name: Create target folder
+      run: mkdir -p Quran_audio_json
+
+    - name: Unzip quran_audio_json.zip into Quran_audio_json folder
+      run: unzip -o quran_audio_json.zip -d Quran_audio_json
+
+    - name: Commit & push changes
+      run: |
+        git config --local user.email "actions@github.com"
+        git config --local user.name "GitHub Actions"
+        git add .
+        git commit -m "Unzipped quran_audio_json.zip into Quran_audio_json folder" || echo "No changes to commit"
+        git push
