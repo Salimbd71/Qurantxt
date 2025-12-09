@@ -1,0 +1,973 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 77,
+    "name": "سُورَةُ المُرۡسَلَاتِ",
+    "englishName": "Al-Mursalaat",
+    "englishNameTranslation": "The Emissaries",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 50,
+    "ayahs": [
+      {
+        "number": 5623,
+        "audio": "https://everyayah.com/data/Muhammad_Jibreel_64kbps/077001.mp3",
+        "audioSecondary": [],
+        "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلْمُرْسَلَٰتِ عُرْفًۭا",
+        "numberInSurah": 1,
+        "juz": 29,
+        "manzil": 7,
+        "page": 580,
+        "ruku": 516,
+        "hizbQuarter": 232,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/77/1.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/77/1.mp3"
+        ]
+      },
+      {
+        "number": 5624,
+        "audio": "https://everyayah.com/data/Muhammad_Jibreel_64kbps/077002.mp3",
+        "audioSecondary": [],
+        "text": "فَٱلْعَٰصِفَٰتِ عَصْفًۭا",
+        "numberInSurah": 2,
+        "juz": 29,
+        "manzil": 7,
+        "page": 580,
+        "ruku": 516,
+        "hizbQuarter": 232,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/77/2.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/77/2.mp3"
+        ]
+      },
+      {
+        "number": 5625,
+        "audio": "https://everyayah.com/data/Muhammad_Jibreel_64kbps/077003.mp3",
+        "audioSecondary": [],
+        "text": "وَٱلنَّٰشِرَٰتِ نَشْرًۭا",
+        "numberInSurah": 3,
+        "juz": 29,
+        "manzil": 7,
+        "page": 580,
+        "ruku": 516,
+        "hizbQuarter": 232,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/77/3.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/77/3.mp3"
+        ]
+      },
+      {
+        "number": 5626,
+        "audio": "https://everyayah.com/data/Muhammad_Jibreel_64kbps/077004.mp3",
+        "audioSecondary": [],
+        "text": "فَٱلْفَٰرِقَٰتِ فَرْقًۭا",
+        "numberInSurah": 4,
+        "juz": 29,
+        "manzil": 7,
+        "page": 580,
+        "ruku": 516,
+        "hizbQuarter": 232,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/77/4.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/77/4.mp3"
+        ]
+      },
+      {
+        "number": 5627,
+        "audio": "https://everyayah.com/data/Muhammad_Jibreel_64kbps/077005.mp3",
+        "audioSecondary": [],
+        "text": "فَٱلْمُلْقِيَٰتِ ذِكْرًا",
+        "numberInSurah": 5,
+        "juz": 29,
+        "manzil": 7,
+        "page": 580,
+        "ruku": 516,
+        "hizbQuarter": 232,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/77/5.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/77/5.mp3"
+        ]
+      },
+      {
+        "number": 5628,
+        "audio": "https://everyayah.com/data/Muhammad_Jibreel_64kbps/077006.mp3",
+        "audioSecondary": [],
+        "text": "عُذْرًا أَوْ نُذْرًا",
+        "numberInSurah": 6,
+        "juz": 29,
+        "manzil": 7,
+        "page": 580,
+        "ruku": 516,
+        "hizbQuarter": 232,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/77/6.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/77/6.mp3"
+        ]
+      },
+      {
+        "number": 5629,
+        "audio": "https://everyayah.com/data/Muhammad_Jibreel_64kbps/077007.mp3",
+        "audioSecondary": [],
+        "text": "إِنَّمَا تُوعَدُونَ لَوَٰقِعٌۭ",
+        "numberInSurah": 7,
+        "juz": 29,
+        "manzil": 7,
+        "page": 580,
+        "ruku": 516,
+        "hizbQuarter": 232,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/77/7.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/77/7.mp3"
+        ]
+      },
+      {
+        "number": 5630,
+        "audio": "https://everyayah.com/data/Muhammad_Jibreel_64kbps/077008.mp3",
+        "audioSecondary": [],
+        "text": "فَإِذَا ٱلنُّجُومُ طُمِسَتْ",
+        "numberInSurah": 8,
+        "juz": 29,
+        "manzil": 7,
+        "page": 580,
+        "ruku": 516,
+        "hizbQuarter": 232,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/77/8.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/77/8.mp3"
+        ]
+      },
+      {
+        "number": 5631,
+        "audio": "https://everyayah.com/data/Muhammad_Jibreel_64kbps/077009.mp3",
+        "audioSecondary": [],
+        "text": "وَإِذَا ٱلسَّمَآءُ فُرِجَتْ",
+        "numberInSurah": 9,
+        "juz": 29,
+        "manzil": 7,
+        "page": 580,
+        "ruku": 516,
+        "hizbQuarter": 232,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/77/9.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/77/9.mp3"
+        ]
+      },
+      {
+        "number": 5632,
+        "audio": "https://everyayah.com/data/Muhammad_Jibreel_64kbps/077010.mp3",
+        "audioSecondary": [],
+        "text": "وَإِذَا ٱلْجِبَالُ نُسِفَتْ",
+        "numberInSurah": 10,
+        "juz": 29,
+        "manzil": 7,
+        "page": 580,
+        "ruku": 516,
+        "hizbQuarter": 232,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/77/10.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/77/10.mp3"
+        ]
+      },
+      {
+        "number": 5633,
+        "audio": "https://everyayah.com/data/Muhammad_Jibreel_64kbps/077011.mp3",
+        "audioSecondary": [],
+        "text": "وَإِذَا ٱلرُّسُلُ أُقِّتَتْ",
+        "numberInSurah": 11,
+        "juz": 29,
+        "manzil": 7,
+        "page": 580,
+        "ruku": 516,
+        "hizbQuarter": 232,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/77/11.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/77/11.mp3"
+        ]
+      },
+      {
+        "number": 5634,
+        "audio": "https://everyayah.com/data/Muhammad_Jibreel_64kbps/077012.mp3",
+        "audioSecondary": [],
+        "text": "لِأَىِّ يَوْمٍ أُجِّلَتْ",
+        "numberInSurah": 12,
+        "juz": 29,
+        "manzil": 7,
+        "page": 580,
+        "ruku": 516,
+        "hizbQuarter": 232,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/77/12.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/77/12.mp3"
+        ]
+      },
+      {
+        "number": 5635,
+        "audio": "https://everyayah.com/data/Muhammad_Jibreel_64kbps/077013.mp3",
+        "audioSecondary": [],
+        "text": "لِيَوْمِ ٱلْفَصْلِ",
+        "numberInSurah": 13,
+        "juz": 29,
+        "manzil": 7,
+        "page": 580,
+        "ruku": 516,
+        "hizbQuarter": 232,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/77/13.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/77/13.mp3"
+        ]
+      },
+      {
+        "number": 5636,
+        "audio": "https://everyayah.com/data/Muhammad_Jibreel_64kbps/077014.mp3",
+        "audioSecondary": [],
+        "text": "وَمَآ أَدْرَىٰكَ مَا يَوْمُ ٱلْفَصْلِ",
+        "numberInSurah": 14,
+        "juz": 29,
+        "manzil": 7,
+        "page": 580,
+        "ruku": 516,
+        "hizbQuarter": 232,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/77/14.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/77/14.mp3"
+        ]
+      },
+      {
+        "number": 5637,
+        "audio": "https://everyayah.com/data/Muhammad_Jibreel_64kbps/077015.mp3",
+        "audioSecondary": [],
+        "text": "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ",
+        "numberInSurah": 15,
+        "juz": 29,
+        "manzil": 7,
+        "page": 580,
+        "ruku": 516,
+        "hizbQuarter": 232,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/77/15.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/77/15.mp3"
+        ]
+      },
+      {
+        "number": 5638,
+        "audio": "https://everyayah.com/data/Muhammad_Jibreel_64kbps/077016.mp3",
+        "audioSecondary": [],
+        "text": "أَلَمْ نُهْلِكِ ٱلْأَوَّلِينَ",
+        "numberInSurah": 16,
+        "juz": 29,
+        "manzil": 7,
+        "page": 580,
+        "ruku": 516,
+        "hizbQuarter": 232,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/77/16.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/77/16.mp3"
+        ]
+      },
+      {
+        "number": 5639,
+        "audio": "https://everyayah.com/data/Muhammad_Jibreel_64kbps/077017.mp3",
+        "audioSecondary": [],
+        "text": "ثُمَّ نُتْبِعُهُمُ ٱلْءَاخِرِينَ",
+        "numberInSurah": 17,
+        "juz": 29,
+        "manzil": 7,
+        "page": 580,
+        "ruku": 516,
+        "hizbQuarter": 232,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/77/17.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/77/17.mp3"
+        ]
+      },
+      {
+        "number": 5640,
+        "audio": "https://everyayah.com/data/Muhammad_Jibreel_64kbps/077018.mp3",
+        "audioSecondary": [],
+        "text": "كَذَٰلِكَ نَفْعَلُ بِٱلْمُجْرِمِينَ",
+        "numberInSurah": 18,
+        "juz": 29,
+        "manzil": 7,
+        "page": 580,
+        "ruku": 516,
+        "hizbQuarter": 232,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/77/18.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/77/18.mp3"
+        ]
+      },
+      {
+        "number": 5641,
+        "audio": "https://everyayah.com/data/Muhammad_Jibreel_64kbps/077019.mp3",
+        "audioSecondary": [],
+        "text": "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ",
+        "numberInSurah": 19,
+        "juz": 29,
+        "manzil": 7,
+        "page": 580,
+        "ruku": 516,
+        "hizbQuarter": 232,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/77/19.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/77/19.mp3"
+        ]
+      },
+      {
+        "number": 5642,
+        "audio": "https://everyayah.com/data/Muhammad_Jibreel_64kbps/077020.mp3",
+        "audioSecondary": [],
+        "text": "أَلَمْ نَخْلُقكُّم مِّن مَّآءٍۢ مَّهِينٍۢ",
+        "numberInSurah": 20,
+        "juz": 29,
+        "manzil": 7,
+        "page": 581,
+        "ruku": 516,
+        "hizbQuarter": 232,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/77/20.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/77/20.mp3"
+        ]
+      },
+      {
+        "number": 5643,
+        "audio": "https://everyayah.com/data/Muhammad_Jibreel_64kbps/077021.mp3",
+        "audioSecondary": [],
+        "text": "فَجَعَلْنَٰهُ فِى قَرَارٍۢ مَّكِينٍ",
+        "numberInSurah": 21,
+        "juz": 29,
+        "manzil": 7,
+        "page": 581,
+        "ruku": 516,
+        "hizbQuarter": 232,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/77/21.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/77/21.mp3"
+        ]
+      },
+      {
+        "number": 5644,
+        "audio": "https://everyayah.com/data/Muhammad_Jibreel_64kbps/077022.mp3",
+        "audioSecondary": [],
+        "text": "إِلَىٰ قَدَرٍۢ مَّعْلُومٍۢ",
+        "numberInSurah": 22,
+        "juz": 29,
+        "manzil": 7,
+        "page": 581,
+        "ruku": 516,
+        "hizbQuarter": 232,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/77/22.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/77/22.mp3"
+        ]
+      },
+      {
+        "number": 5645,
+        "audio": "https://everyayah.com/data/Muhammad_Jibreel_64kbps/077023.mp3",
+        "audioSecondary": [],
+        "text": "فَقَدَرْنَا فَنِعْمَ ٱلْقَٰدِرُونَ",
+        "numberInSurah": 23,
+        "juz": 29,
+        "manzil": 7,
+        "page": 581,
+        "ruku": 516,
+        "hizbQuarter": 232,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/77/23.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/77/23.mp3"
+        ]
+      },
+      {
+        "number": 5646,
+        "audio": "https://everyayah.com/data/Muhammad_Jibreel_64kbps/077024.mp3",
+        "audioSecondary": [],
+        "text": "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ",
+        "numberInSurah": 24,
+        "juz": 29,
+        "manzil": 7,
+        "page": 581,
+        "ruku": 516,
+        "hizbQuarter": 232,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/77/24.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/77/24.mp3"
+        ]
+      },
+      {
+        "number": 5647,
+        "audio": "https://everyayah.com/data/Muhammad_Jibreel_64kbps/077025.mp3",
+        "audioSecondary": [],
+        "text": "أَلَمْ نَجْعَلِ ٱلْأَرْضَ كِفَاتًا",
+        "numberInSurah": 25,
+        "juz": 29,
+        "manzil": 7,
+        "page": 581,
+        "ruku": 516,
+        "hizbQuarter": 232,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/77/25.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/77/25.mp3"
+        ]
+      },
+      {
+        "number": 5648,
+        "audio": "https://everyayah.com/data/Muhammad_Jibreel_64kbps/077026.mp3",
+        "audioSecondary": [],
+        "text": "أَحْيَآءًۭ وَأَمْوَٰتًۭا",
+        "numberInSurah": 26,
+        "juz": 29,
+        "manzil": 7,
+        "page": 581,
+        "ruku": 516,
+        "hizbQuarter": 232,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/77/26.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/77/26.mp3"
+        ]
+      },
+      {
+        "number": 5649,
+        "audio": "https://everyayah.com/data/Muhammad_Jibreel_64kbps/077027.mp3",
+        "audioSecondary": [],
+        "text": "وَجَعَلْنَا فِيهَا رَوَٰسِىَ شَٰمِخَٰتٍۢ وَأَسْقَيْنَٰكُم مَّآءًۭ فُرَاتًۭا",
+        "numberInSurah": 27,
+        "juz": 29,
+        "manzil": 7,
+        "page": 581,
+        "ruku": 516,
+        "hizbQuarter": 232,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/77/27.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/77/27.mp3"
+        ]
+      },
+      {
+        "number": 5650,
+        "audio": "https://everyayah.com/data/Muhammad_Jibreel_64kbps/077028.mp3",
+        "audioSecondary": [],
+        "text": "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ",
+        "numberInSurah": 28,
+        "juz": 29,
+        "manzil": 7,
+        "page": 581,
+        "ruku": 516,
+        "hizbQuarter": 232,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/77/28.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/77/28.mp3"
+        ]
+      },
+      {
+        "number": 5651,
+        "audio": "https://everyayah.com/data/Muhammad_Jibreel_64kbps/077029.mp3",
+        "audioSecondary": [],
+        "text": "ٱنطَلِقُوٓا۟ إِلَىٰ مَا كُنتُم بِهِۦ تُكَذِّبُونَ",
+        "numberInSurah": 29,
+        "juz": 29,
+        "manzil": 7,
+        "page": 581,
+        "ruku": 516,
+        "hizbQuarter": 232,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/77/29.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/77/29.mp3"
+        ]
+      },
+      {
+        "number": 5652,
+        "audio": "https://everyayah.com/data/Muhammad_Jibreel_64kbps/077030.mp3",
+        "audioSecondary": [],
+        "text": "ٱنطَلِقُوٓا۟ إِلَىٰ ظِلٍّۢ ذِى ثَلَٰثِ شُعَبٍۢ",
+        "numberInSurah": 30,
+        "juz": 29,
+        "manzil": 7,
+        "page": 581,
+        "ruku": 516,
+        "hizbQuarter": 232,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/77/30.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/77/30.mp3"
+        ]
+      },
+      {
+        "number": 5653,
+        "audio": "https://everyayah.com/data/Muhammad_Jibreel_64kbps/077031.mp3",
+        "audioSecondary": [],
+        "text": "لَّا ظَلِيلٍۢ وَلَا يُغْنِى مِنَ ٱللَّهَبِ",
+        "numberInSurah": 31,
+        "juz": 29,
+        "manzil": 7,
+        "page": 581,
+        "ruku": 516,
+        "hizbQuarter": 232,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/77/31.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/77/31.mp3"
+        ]
+      },
+      {
+        "number": 5654,
+        "audio": "https://everyayah.com/data/Muhammad_Jibreel_64kbps/077032.mp3",
+        "audioSecondary": [],
+        "text": "إِنَّهَا تَرْمِى بِشَرَرٍۢ كَٱلْقَصْرِ",
+        "numberInSurah": 32,
+        "juz": 29,
+        "manzil": 7,
+        "page": 581,
+        "ruku": 516,
+        "hizbQuarter": 232,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/77/32.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/77/32.mp3"
+        ]
+      },
+      {
+        "number": 5655,
+        "audio": "https://everyayah.com/data/Muhammad_Jibreel_64kbps/077033.mp3",
+        "audioSecondary": [],
+        "text": "كَأَنَّهُۥ جِمَٰلَتٌۭ صُفْرٌۭ",
+        "numberInSurah": 33,
+        "juz": 29,
+        "manzil": 7,
+        "page": 581,
+        "ruku": 516,
+        "hizbQuarter": 232,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/77/33.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/77/33.mp3"
+        ]
+      },
+      {
+        "number": 5656,
+        "audio": "https://everyayah.com/data/Muhammad_Jibreel_64kbps/077034.mp3",
+        "audioSecondary": [],
+        "text": "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ",
+        "numberInSurah": 34,
+        "juz": 29,
+        "manzil": 7,
+        "page": 581,
+        "ruku": 516,
+        "hizbQuarter": 232,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/77/34.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/77/34.mp3"
+        ]
+      },
+      {
+        "number": 5657,
+        "audio": "https://everyayah.com/data/Muhammad_Jibreel_64kbps/077035.mp3",
+        "audioSecondary": [],
+        "text": "هَٰذَا يَوْمُ لَا يَنطِقُونَ",
+        "numberInSurah": 35,
+        "juz": 29,
+        "manzil": 7,
+        "page": 581,
+        "ruku": 516,
+        "hizbQuarter": 232,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/77/35.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/77/35.mp3"
+        ]
+      },
+      {
+        "number": 5658,
+        "audio": "https://everyayah.com/data/Muhammad_Jibreel_64kbps/077036.mp3",
+        "audioSecondary": [],
+        "text": "وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُونَ",
+        "numberInSurah": 36,
+        "juz": 29,
+        "manzil": 7,
+        "page": 581,
+        "ruku": 516,
+        "hizbQuarter": 232,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/77/36.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/77/36.mp3"
+        ]
+      },
+      {
+        "number": 5659,
+        "audio": "https://everyayah.com/data/Muhammad_Jibreel_64kbps/077037.mp3",
+        "audioSecondary": [],
+        "text": "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ",
+        "numberInSurah": 37,
+        "juz": 29,
+        "manzil": 7,
+        "page": 581,
+        "ruku": 516,
+        "hizbQuarter": 232,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/77/37.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/77/37.mp3"
+        ]
+      },
+      {
+        "number": 5660,
+        "audio": "https://everyayah.com/data/Muhammad_Jibreel_64kbps/077038.mp3",
+        "audioSecondary": [],
+        "text": "هَٰذَا يَوْمُ ٱلْفَصْلِ ۖ جَمَعْنَٰكُمْ وَٱلْأَوَّلِينَ",
+        "numberInSurah": 38,
+        "juz": 29,
+        "manzil": 7,
+        "page": 581,
+        "ruku": 516,
+        "hizbQuarter": 232,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/77/38.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/77/38.mp3"
+        ]
+      },
+      {
+        "number": 5661,
+        "audio": "https://everyayah.com/data/Muhammad_Jibreel_64kbps/077039.mp3",
+        "audioSecondary": [],
+        "text": "فَإِن كَانَ لَكُمْ كَيْدٌۭ فَكِيدُونِ",
+        "numberInSurah": 39,
+        "juz": 29,
+        "manzil": 7,
+        "page": 581,
+        "ruku": 516,
+        "hizbQuarter": 232,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/77/39.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/77/39.mp3"
+        ]
+      },
+      {
+        "number": 5662,
+        "audio": "https://everyayah.com/data/Muhammad_Jibreel_64kbps/077040.mp3",
+        "audioSecondary": [],
+        "text": "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ",
+        "numberInSurah": 40,
+        "juz": 29,
+        "manzil": 7,
+        "page": 581,
+        "ruku": 516,
+        "hizbQuarter": 232,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/77/40.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/77/40.mp3"
+        ]
+      },
+      {
+        "number": 5663,
+        "audio": "https://everyayah.com/data/Muhammad_Jibreel_64kbps/077041.mp3",
+        "audioSecondary": [],
+        "text": "إِنَّ ٱلْمُتَّقِينَ فِى ظِلَٰلٍۢ وَعُيُونٍۢ",
+        "numberInSurah": 41,
+        "juz": 29,
+        "manzil": 7,
+        "page": 581,
+        "ruku": 517,
+        "hizbQuarter": 232,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/77/41.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/77/41.mp3"
+        ]
+      },
+      {
+        "number": 5664,
+        "audio": "https://everyayah.com/data/Muhammad_Jibreel_64kbps/077042.mp3",
+        "audioSecondary": [],
+        "text": "وَفَوَٰكِهَ مِمَّا يَشْتَهُونَ",
+        "numberInSurah": 42,
+        "juz": 29,
+        "manzil": 7,
+        "page": 581,
+        "ruku": 517,
+        "hizbQuarter": 232,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/77/42.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/77/42.mp3"
+        ]
+      },
+      {
+        "number": 5665,
+        "audio": "https://everyayah.com/data/Muhammad_Jibreel_64kbps/077043.mp3",
+        "audioSecondary": [],
+        "text": "كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا بِمَا كُنتُمْ تَعْمَلُونَ",
+        "numberInSurah": 43,
+        "juz": 29,
+        "manzil": 7,
+        "page": 581,
+        "ruku": 517,
+        "hizbQuarter": 232,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/77/43.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/77/43.mp3"
+        ]
+      },
+      {
+        "number": 5666,
+        "audio": "https://everyayah.com/data/Muhammad_Jibreel_64kbps/077044.mp3",
+        "audioSecondary": [],
+        "text": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+        "numberInSurah": 44,
+        "juz": 29,
+        "manzil": 7,
+        "page": 581,
+        "ruku": 517,
+        "hizbQuarter": 232,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/77/44.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/77/44.mp3"
+        ]
+      },
+      {
+        "number": 5667,
+        "audio": "https://everyayah.com/data/Muhammad_Jibreel_64kbps/077045.mp3",
+        "audioSecondary": [],
+        "text": "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ",
+        "numberInSurah": 45,
+        "juz": 29,
+        "manzil": 7,
+        "page": 581,
+        "ruku": 517,
+        "hizbQuarter": 232,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/77/45.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/77/45.mp3"
+        ]
+      },
+      {
+        "number": 5668,
+        "audio": "https://everyayah.com/data/Muhammad_Jibreel_64kbps/077046.mp3",
+        "audioSecondary": [],
+        "text": "كُلُوا۟ وَتَمَتَّعُوا۟ قَلِيلًا إِنَّكُم مُّجْرِمُونَ",
+        "numberInSurah": 46,
+        "juz": 29,
+        "manzil": 7,
+        "page": 581,
+        "ruku": 517,
+        "hizbQuarter": 232,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/77/46.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/77/46.mp3"
+        ]
+      },
+      {
+        "number": 5669,
+        "audio": "https://everyayah.com/data/Muhammad_Jibreel_64kbps/077047.mp3",
+        "audioSecondary": [],
+        "text": "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ",
+        "numberInSurah": 47,
+        "juz": 29,
+        "manzil": 7,
+        "page": 581,
+        "ruku": 517,
+        "hizbQuarter": 232,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/77/47.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/77/47.mp3"
+        ]
+      },
+      {
+        "number": 5670,
+        "audio": "https://everyayah.com/data/Muhammad_Jibreel_64kbps/077048.mp3",
+        "audioSecondary": [],
+        "text": "وَإِذَا قِيلَ لَهُمُ ٱرْكَعُوا۟ لَا يَرْكَعُونَ",
+        "numberInSurah": 48,
+        "juz": 29,
+        "manzil": 7,
+        "page": 581,
+        "ruku": 517,
+        "hizbQuarter": 232,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/77/48.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/77/48.mp3"
+        ]
+      },
+      {
+        "number": 5671,
+        "audio": "https://everyayah.com/data/Muhammad_Jibreel_64kbps/077049.mp3",
+        "audioSecondary": [],
+        "text": "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ",
+        "numberInSurah": 49,
+        "juz": 29,
+        "manzil": 7,
+        "page": 581,
+        "ruku": 517,
+        "hizbQuarter": 232,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/77/49.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/77/49.mp3"
+        ]
+      },
+      {
+        "number": 5672,
+        "audio": "https://everyayah.com/data/Muhammad_Jibreel_64kbps/077050.mp3",
+        "audioSecondary": [],
+        "text": "فَبِأَىِّ حَدِيثٍۭ بَعْدَهُۥ يُؤْمِنُونَ",
+        "numberInSurah": 50,
+        "juz": 29,
+        "manzil": 7,
+        "page": 581,
+        "ruku": 517,
+        "hizbQuarter": 232,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/77/50.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/77/50.mp3"
+        ]
+      }
+    ],
+    "edition": {
+      "identifier": "ar.muhammadjibreel",
+      "language": "ar",
+      "name": "محمد جبريل",
+      "englishName": "Muhammad Jibreel",
+      "format": "audio",
+      "type": "versebyverse",
+      "direction": null
+    }
+  }
+}

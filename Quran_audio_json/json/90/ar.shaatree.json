@@ -1,0 +1,443 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 90,
+    "name": "سُورَةُ البَلَدِ",
+    "englishName": "Al-Balad",
+    "englishNameTranslation": "The City",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 20,
+    "ayahs": [
+      {
+        "number": 6024,
+        "audio": "https://everyayah.com/data/Saood_ash-Shuraym_64kbps/090001.mp3",
+        "audioSecondary": [
+          "https://cdn.islamic.network/quran/audio/64/ar.shaatree/6024.mp3"
+        ],
+        "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ لَآ أُقْسِمُ بِهَٰذَا ٱلْبَلَدِ",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/90/1.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/90/1.mp3"
+        ]
+      },
+      {
+        "number": 6025,
+        "audio": "https://everyayah.com/data/Saood_ash-Shuraym_64kbps/090002.mp3",
+        "audioSecondary": [
+          "https://cdn.islamic.network/quran/audio/64/ar.shaatree/6025.mp3"
+        ],
+        "text": "وَأَنتَ حِلٌّۢ بِهَٰذَا ٱلْبَلَدِ",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/90/2.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/90/2.mp3"
+        ]
+      },
+      {
+        "number": 6026,
+        "audio": "https://everyayah.com/data/Saood_ash-Shuraym_64kbps/090003.mp3",
+        "audioSecondary": [
+          "https://cdn.islamic.network/quran/audio/64/ar.shaatree/6026.mp3"
+        ],
+        "text": "وَوَالِدٍۢ وَمَا وَلَدَ",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/90/3.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/90/3.mp3"
+        ]
+      },
+      {
+        "number": 6027,
+        "audio": "https://everyayah.com/data/Saood_ash-Shuraym_64kbps/090004.mp3",
+        "audioSecondary": [
+          "https://cdn.islamic.network/quran/audio/64/ar.shaatree/6027.mp3"
+        ],
+        "text": "لَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ فِى كَبَدٍ",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/90/4.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/90/4.mp3"
+        ]
+      },
+      {
+        "number": 6028,
+        "audio": "https://everyayah.com/data/Saood_ash-Shuraym_64kbps/090005.mp3",
+        "audioSecondary": [
+          "https://cdn.islamic.network/quran/audio/64/ar.shaatree/6028.mp3"
+        ],
+        "text": "أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌۭ",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/90/5.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/90/5.mp3"
+        ]
+      },
+      {
+        "number": 6029,
+        "audio": "https://everyayah.com/data/Saood_ash-Shuraym_64kbps/090006.mp3",
+        "audioSecondary": [
+          "https://cdn.islamic.network/quran/audio/64/ar.shaatree/6029.mp3"
+        ],
+        "text": "يَقُولُ أَهْلَكْتُ مَالًۭا لُّبَدًا",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/90/6.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/90/6.mp3"
+        ]
+      },
+      {
+        "number": 6030,
+        "audio": "https://everyayah.com/data/Saood_ash-Shuraym_64kbps/090007.mp3",
+        "audioSecondary": [
+          "https://cdn.islamic.network/quran/audio/64/ar.shaatree/6030.mp3"
+        ],
+        "text": "أَيَحْسَبُ أَن لَّمْ يَرَهُۥٓ أَحَدٌ",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/90/7.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/90/7.mp3"
+        ]
+      },
+      {
+        "number": 6031,
+        "audio": "https://everyayah.com/data/Saood_ash-Shuraym_64kbps/090008.mp3",
+        "audioSecondary": [
+          "https://cdn.islamic.network/quran/audio/64/ar.shaatree/6031.mp3"
+        ],
+        "text": "أَلَمْ نَجْعَل لَّهُۥ عَيْنَيْنِ",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/90/8.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/90/8.mp3"
+        ]
+      },
+      {
+        "number": 6032,
+        "audio": "https://everyayah.com/data/Saood_ash-Shuraym_64kbps/090009.mp3",
+        "audioSecondary": [
+          "https://cdn.islamic.network/quran/audio/64/ar.shaatree/6032.mp3"
+        ],
+        "text": "وَلِسَانًۭا وَشَفَتَيْنِ",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/90/9.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/90/9.mp3"
+        ]
+      },
+      {
+        "number": 6033,
+        "audio": "https://everyayah.com/data/Saood_ash-Shuraym_64kbps/090010.mp3",
+        "audioSecondary": [
+          "https://cdn.islamic.network/quran/audio/64/ar.shaatree/6033.mp3"
+        ],
+        "text": "وَهَدَيْنَٰهُ ٱلنَّجْدَيْنِ",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/90/10.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/90/10.mp3"
+        ]
+      },
+      {
+        "number": 6034,
+        "audio": "https://everyayah.com/data/Saood_ash-Shuraym_64kbps/090011.mp3",
+        "audioSecondary": [
+          "https://cdn.islamic.network/quran/audio/64/ar.shaatree/6034.mp3"
+        ],
+        "text": "فَلَا ٱقْتَحَمَ ٱلْعَقَبَةَ",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/90/11.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/90/11.mp3"
+        ]
+      },
+      {
+        "number": 6035,
+        "audio": "https://everyayah.com/data/Saood_ash-Shuraym_64kbps/090012.mp3",
+        "audioSecondary": [
+          "https://cdn.islamic.network/quran/audio/64/ar.shaatree/6035.mp3"
+        ],
+        "text": "وَمَآ أَدْرَىٰكَ مَا ٱلْعَقَبَةُ",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/90/12.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/90/12.mp3"
+        ]
+      },
+      {
+        "number": 6036,
+        "audio": "https://everyayah.com/data/Saood_ash-Shuraym_64kbps/090013.mp3",
+        "audioSecondary": [
+          "https://cdn.islamic.network/quran/audio/64/ar.shaatree/6036.mp3"
+        ],
+        "text": "فَكُّ رَقَبَةٍ",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/90/13.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/90/13.mp3"
+        ]
+      },
+      {
+        "number": 6037,
+        "audio": "https://everyayah.com/data/Saood_ash-Shuraym_64kbps/090014.mp3",
+        "audioSecondary": [
+          "https://cdn.islamic.network/quran/audio/64/ar.shaatree/6037.mp3"
+        ],
+        "text": "أَوْ إِطْعَٰمٌۭ فِى يَوْمٍۢ ذِى مَسْغَبَةٍۢ",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/90/14.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/90/14.mp3"
+        ]
+      },
+      {
+        "number": 6038,
+        "audio": "https://everyayah.com/data/Saood_ash-Shuraym_64kbps/090015.mp3",
+        "audioSecondary": [
+          "https://cdn.islamic.network/quran/audio/64/ar.shaatree/6038.mp3"
+        ],
+        "text": "يَتِيمًۭا ذَا مَقْرَبَةٍ",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/90/15.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/90/15.mp3"
+        ]
+      },
+      {
+        "number": 6039,
+        "audio": "https://everyayah.com/data/Saood_ash-Shuraym_64kbps/090016.mp3",
+        "audioSecondary": [
+          "https://cdn.islamic.network/quran/audio/64/ar.shaatree/6039.mp3"
+        ],
+        "text": "أَوْ مِسْكِينًۭا ذَا مَتْرَبَةٍۢ",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/90/16.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/90/16.mp3"
+        ]
+      },
+      {
+        "number": 6040,
+        "audio": "https://everyayah.com/data/Saood_ash-Shuraym_64kbps/090017.mp3",
+        "audioSecondary": [
+          "https://cdn.islamic.network/quran/audio/64/ar.shaatree/6040.mp3"
+        ],
+        "text": "ثُمَّ كَانَ مِنَ ٱلَّذِينَ ءَامَنُوا۟ وَتَوَاصَوْا۟ بِٱلصَّبْرِ وَتَوَاصَوْا۟ بِٱلْمَرْحَمَةِ",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/90/17.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/90/17.mp3"
+        ]
+      },
+      {
+        "number": 6041,
+        "audio": "https://everyayah.com/data/Saood_ash-Shuraym_64kbps/090018.mp3",
+        "audioSecondary": [
+          "https://cdn.islamic.network/quran/audio/64/ar.shaatree/6041.mp3"
+        ],
+        "text": "أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْمَيْمَنَةِ",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/90/18.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/90/18.mp3"
+        ]
+      },
+      {
+        "number": 6042,
+        "audio": "https://everyayah.com/data/Saood_ash-Shuraym_64kbps/090019.mp3",
+        "audioSecondary": [
+          "https://cdn.islamic.network/quran/audio/64/ar.shaatree/6042.mp3"
+        ],
+        "text": "وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَٰتِنَا هُمْ أَصْحَٰبُ ٱلْمَشْـَٔمَةِ",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/90/19.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/90/19.mp3"
+        ]
+      },
+      {
+        "number": 6043,
+        "audio": "https://everyayah.com/data/Saood_ash-Shuraym_64kbps/090020.mp3",
+        "audioSecondary": [
+          "https://cdn.islamic.network/quran/audio/64/ar.shaatree/6043.mp3"
+        ],
+        "text": "عَلَيْهِمْ نَارٌۭ مُّؤْصَدَةٌۢ",
+        "numberInSurah": 20,
+        "juz": 30,
+        "manzil": 7,
+        "page": 594,
+        "ruku": 532,
+        "hizbQuarter": 238,
+        "sajda": false,
+        "audioArabic": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/ArabicQuran@main/90/20.mp3"
+        ],
+        "audioBangla": [
+          "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/90/20.mp3"
+        ]
+      }
+    ],
+    "edition": {
+      "identifier": "ar.shaatree",
+      "language": "ar",
+      "name": "أبو بكر الشاطري",
+      "englishName": "Abu Bakr Ash-Shaatree",
+      "format": "audio",
+      "type": "versebyverse",
+      "direction": null
+    }
+  }
+}
