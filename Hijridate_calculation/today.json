@@ -1,0 +1,15 @@
+{
+  "status": "success",
+  "updated_at": "2025-12-10T00:00:00",
+  "gregorian": "2025-12-10",
+  "hijri": {
+    "day": 26,
+    "month_number": 5,
+    "month_en": "Jumada al-Awwal",
+    "month_bn": "জমাদিউল আউয়াল",
+    "year": 1447,
+    "full_bn": "২৬ জমাদিউল আউয়াল ১৪৪৭ হিজরী",
+    "full_en": "26 Jumada al-Awwal 1447 AH",
+    "iso": "1447-05-26"
+  }
+}
