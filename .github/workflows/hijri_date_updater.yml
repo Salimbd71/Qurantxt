@@ -1,9 +1,12 @@
 name: Daily Hijri JSON Update
 
+permissions:
+  contents: write
+
 on:
   schedule:
-    - cron: '0 18 * * *'    # বাংলাদেশ সময় রাত ১২টা (UTC+6)
-  workflow_dispatch:        # ম্যানুয়ালি রান করার অপশন
+    - cron: '0 18 * * *'    # Bangladesh 12 AM
+  workflow_dispatch:
 
 jobs:
   update:
@@ -33,7 +36,7 @@ jobs:
         run: |
           git add Hijridate_calculation/today_hijri.json
           if git diff --staged --quiet; then
-            echo "No changes to commit"
+            echo "No changes."
           else
             git commit -m "Auto update Hijri date – $(date '+%Y-%m-%d %H:%M')"
             git push
