@@ -5,7 +5,7 @@ permissions:
 
 on:
   schedule:
-    - cron: '0 18 * * *'    # Bangladesh 12 AM
+    - cron: '0 19 * * *'   # Bangladesh 1:00 AM
   workflow_dispatch:
 
 jobs:
@@ -13,31 +13,44 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # 1️⃣ Checkout
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      # 2️⃣ Setup Git
       - name: Setup Git user
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
+      # 3️⃣ Setup Python
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.11'
 
-      - name: Install hijridate
-        run: pip install hijridate==2.3.0
+      # 4️⃣ Install dependencies
+      - name: Install dependencies
+        run: pip install hijridate==2.3.0 pytz
 
+      # 5️⃣ Generate Hijri JSON
       - name: Generate Hijri JSON
-        run: python Hijridate_calculation/generate_hijri.py
+        run: |
+          python Hijridate_calculation/generate_hijri.py
+          cat Hijridate_calculation/today_hijri.json   # Debug: show content
 
-      - name: Commit & Push if changed
+      # 6️⃣ Commit & Push if changed
+      - name: Commit & Push
         run: |
           git add Hijridate_calculation/today_hijri.json
           if git diff --staged --quiet; then
             echo "No changes."
           else
             git commit -m "Auto update Hijri date – $(date '+%Y-%m-%d %H:%M')"
-            git push
-          fi
+            git push origin main
+
+      # 7️⃣ Purge jsDelivr CDN
+      - name: Purge jsDelivr CDN Cache
+        run: |
+          echo "Purging jsDelivr cache..."
+          curl -I "https://purge.jsdelivr.net/gh/Salimbd71/Qurantxt@main/Hijridate_calculation/today_hijri.json" || true
