@@ -40,4 +40,8 @@ jobs:
           else
             git commit -m "Auto update Hijri date – $(date '+%Y-%m-%d %H:%M')"
             git push
-          fi
+
+      - name: Purge jsDelivr CDN Cache
+        run: |
+          echo "Purging jsDelivr cache..."
+          curl -I "https://purge.jsdelivr.net/gh/Salimbd71/Qurantxt@main/Hijridate_calculation/today_hijri.json"
