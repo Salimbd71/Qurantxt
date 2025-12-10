@@ -1,0 +1,35 @@
+name: Daily Hijri JSON Update
+
+on:
+  schedule:
+    - cron: '0 18 * * *'      # বাংলাদেশ রাত ১২টা
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install hijridate
+        run: pip install hijridate==2.3.0
+
+      - name: Run generator script
+        run: python Hijridate_calculation/generate_hijri.py
+
+      - name: Commit & Push if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto update Hijri date – $(date '+%Y-%m-%d')"
+          file_pattern: Hijridate_calculation/today.json
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: .
