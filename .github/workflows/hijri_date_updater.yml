@@ -2,17 +2,16 @@ name: Daily Hijri JSON Update
 
 on:
   schedule:
-    - cron: '0 18 * * *'      # বাংলাদেশ রাত ১২টা
-  workflow_dispatch:
+    - cron: '0 18 * * *'    # বাংলাদেশ সময় রাত ১২টা (UTC+6)
+  workflow_dispatch:        # ম্যানুয়ালি রান করার অপশন
 
 jobs:
   update:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}   # এটা ছাড়া push হবে না
 
       - name: Setup Git user
         run: |
@@ -32,10 +31,10 @@ jobs:
 
       - name: Commit & Push if changed
         run: |
-          git add Hijridate_calculation/today.json
+          git add Hijridate_calculation/today_hijri.json
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
             git commit -m "Auto update Hijri date – $(date '+%Y-%m-%d %H:%M')"
-            git push origin main
+            git push
           fi
