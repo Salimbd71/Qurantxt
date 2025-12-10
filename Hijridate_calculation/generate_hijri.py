@@ -1,19 +1,23 @@
 # generate_hijri.py
 from hijridate import Gregorian
 from datetime import datetime
+import pytz
 import json
 import os
 
 # ফাইল সেভের সঠিক পথ
 OUTPUT_PATH = "Hijridate_calculation/today_hijri.json"
 
-# আজকের গ্রেগরিয়ান তারিখ
-today = datetime.now()
+# 👉 Bangladesh TimeZone সেট করা
+bd_tz = pytz.timezone("Asia/Dhaka")
+today = datetime.now(bd_tz)
+
+# আজকের গ্রেগরিয়ান তারিখ (BD অনুযায়ী)
 g_year = today.year
 g_month = today.month
 g_day = today.day
 
-# হিজরীতে কনভার্ট (Umm al-Qura ক্যালেন্ডার – সৌদি অফিসিয়াল)
+# হিজরীতে কনভার্ট (Umm al-Qura ক্যালেন্ডার)
 hijri = Gregorian(g_year, g_month, g_day).to_hijri()
 
 # বাংলা মাসের নাম
