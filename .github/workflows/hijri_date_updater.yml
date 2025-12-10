@@ -26,8 +26,8 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install dependencies
-        run: pip install hijridate==2.3.0 pytz
+      - name: Install hijridate
+        run: pip install hijridate==2.3.0
 
       - name: Generate Hijri JSON
         run: python Hijridate_calculation/generate_hijri.py
@@ -39,4 +39,5 @@ jobs:
             echo "No changes."
           else
             git commit -m "Auto update Hijri date – $(date '+%Y-%m-%d %H:%M')"
-            git push origin main
+            git push
+          fi
