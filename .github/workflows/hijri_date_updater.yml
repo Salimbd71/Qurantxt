@@ -1,43 +1,42 @@
 name: Daily Hijri JSON Update
 
 permissions:
-contents: write
+  contents: write
 
 on:
-schedule:
-- cron: '0 18 * * *'    # Bangladesh 12 AM
-workflow_dispatch:
+  schedule:
+    - cron: '0 18 * * *'    # Bangladesh 12 AM
+  workflow_dispatch:
 
 jobs:
-update:
-runs-on: ubuntu-latest
+  update:
+    runs-on: ubuntu-latest
 
-steps:  
-  - name: Checkout repository  
-    uses: actions/checkout@v4  
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-  - name: Setup Git user  
-    run: |  
-      git config user.name "github-actions[bot]"  
-      git config user.email "41898282+github-actions[bot]@users.noreply.github.com"  
+      - name: Setup Git user
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-  - name: Setup Python  
-    uses: actions/setup-python@v4  
-    with:  
-      python-version: '3.11'  
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
 
-  - name: Install hijridate  
-    run: pip install hijridate==2.3.0  
+      - name: Install dependencies
+        run: pip install hijridate==2.3.0 pytz
 
-  - name: Generate Hijri JSON  
-    run: python Hijridate_calculation/generate_hijri.py  
+      - name: Generate Hijri JSON
+        run: python Hijridate_calculation/generate_hijri.py
 
-  - name: Commit & Push if changed  
-    run: |  
-      git add Hijridate_calculation/today_hijri.json  
-      if git diff --staged --quiet; then  
-        echo "No changes."  
-      else  
-        git commit -m "Auto update Hijri date – $(date '+%Y-%m-%d %H:%M')"  
-        git push  
-      fi
+      - name: Commit & Push if changed
+        run: |
+          git add Hijridate_calculation/today_hijri.json
+          if git diff --staged --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Auto update Hijri date – $(date '+%Y-%m-%d %H:%M')"
+            git push origin main
