@@ -5,7 +5,7 @@ permissions:
 
 on:
   schedule:
-    - cron: '0 18 * * *'    # Bangladesh 12 AM
+    - cron: '0 19 * * *'   # Bangladesh 1:00 AM
   workflow_dispatch:
 
 jobs:
@@ -26,8 +26,8 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install hijridate
-        run: pip install hijridate==2.3.0
+      - name: Install dependencies
+        run: pip install hijridate==2.3.0 pytz
 
       - name: Generate Hijri JSON
         run: python Hijridate_calculation/generate_hijri.py
