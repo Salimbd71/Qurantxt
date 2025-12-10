@@ -44,4 +44,4 @@ jobs:
       - name: Purge jsDelivr CDN Cache
         run: |
           echo "Purging jsDelivr cache..."
-          curl -I "https://purge.jsdelivr.net/gh/Salimbd71/Qurantxt@main/Hijridate_calculation/today_hijri.json"
+          curl -I "https://purge.jsdelivr.net/gh/Salimbd71/Qurantxt@main/Hijridate_calculation/today_hijri.json" || true
