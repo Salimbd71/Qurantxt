@@ -2,6 +2,10 @@
 from hijridate import Gregorian
 from datetime import datetime
 import json
+import os
+
+# ফাইল সেভের সঠিক পথ
+OUTPUT_PATH = "Hijridate_calculation/today_hijri.json"
 
 # আজকের গ্রেগরিয়ান তারিখ
 today = datetime.now()
@@ -37,9 +41,10 @@ data = {
     "updated_at": today.isoformat()
 }
 
-# today.json ফাইলে সেভ করা
-with open("today.json", "w", encoding="utf-8") as f:
+# today_hijri.json ফাইলে সেভ করা
+os.makedirs("Hijridate_calculation", exist_ok=True)
+with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
     json.dump(data, f, ensure_ascii=False, indent=2)
 
-print("today.json সফলভাবে আপডেট হয়েছে!")
+print("today_hijri.json সফলভাবে আপডেট হয়েছে!")
 print(f"হিজরী তারিখ: {hijri.day} {month_bn} {hijri.year}")
