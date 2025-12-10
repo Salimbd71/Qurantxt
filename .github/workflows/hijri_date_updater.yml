@@ -9,16 +9,17 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}   # এটা ছাড়া push হবে না
 
-      - name: Set up Git user
+      - name: Setup Git user
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      - name: Set up Python
+      - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.11'
@@ -26,13 +27,15 @@ jobs:
       - name: Install hijridate
         run: pip install hijridate==2.3.0
 
-      - name: Generate today.json
+      - name: Generate Hijri JSON
         run: python Hijridate_calculation/generate_hijri.py
 
       - name: Commit & Push if changed
         run: |
           git add Hijridate_calculation/today.json
-          git diff --quiet && git diff --staged --quiet || (
-            git commit -m "Auto update Hijri date – $(date '+%Y-%m-%d %H:%M')" && 
-            git push
-          )
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Auto update Hijri date – $(date '+%Y-%m-%d %H:%M')"
+            git push origin main
+          fi
