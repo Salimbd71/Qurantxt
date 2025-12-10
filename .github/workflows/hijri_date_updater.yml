@@ -10,6 +10,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Git user
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -19,17 +26,13 @@ jobs:
       - name: Install hijridate
         run: pip install hijridate==2.3.0
 
-      - name: Run generator script
+      - name: Generate today.json
         run: python Hijridate_calculation/generate_hijri.py
 
       - name: Commit & Push if changed
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "Auto update Hijri date – $(date '+%Y-%m-%d')"
-          file_pattern: Hijridate_calculation/today.json
-
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: .
+        run: |
+          git add Hijridate_calculation/today.json
+          git diff --quiet && git diff --staged --quiet || (
+            git commit -m "Auto update Hijri date – $(date '+%Y-%m-%d %H:%M')" && 
+            git push
+          )
