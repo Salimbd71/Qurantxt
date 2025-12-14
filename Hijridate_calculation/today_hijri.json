@@ -1,15 +1,15 @@
 {
   "status": "success",
-  "gregorian": "2025-12-13",
+  "gregorian": "2025-12-14",
   "hijri": {
-    "day": 22,
+    "day": 23,
     "month_number": 6,
     "month_en": "Jumada al-Akhirah",
     "month_bn": "জমাদিউস সানি",
     "year": 1447,
-    "full_bn": "22 জমাদিউস সানি 1447 হিজরী",
-    "full_en": "22 Jumada al-Akhirah 1447 AH",
-    "date": "1447-06-22"
+    "full_bn": "23 জমাদিউস সানি 1447 হিজরী",
+    "full_en": "23 Jumada al-Akhirah 1447 AH",
+    "date": "1447-06-23"
   },
-  "updated_at": "2025-12-13T18:56:41.962933"
+  "updated_at": "2025-12-14T01:54:23.550906"
 }
