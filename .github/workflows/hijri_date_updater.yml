@@ -5,11 +5,11 @@ permissions:
 
 on:
   schedule:
-    - cron: '0 05 * * *'    # Bangladesh 7 AM
+    - cron: '0 18 * * *'   # ✅ Bangladesh 12:00 AM
   workflow_dispatch:
 
 jobs:
-  update:
+  update-hijri:
     runs-on: ubuntu-latest
 
     steps:
@@ -26,18 +26,20 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install hijridate
-        run: pip install hijridate==2.3.0
+      - name: Install dependencies
+        run: |
+          pip install hijridate==2.3.0
 
       - name: Generate Hijri JSON
-        run: python Hijridate_calculation/generate_hijri.py
+        run: |
+          python Hijridate_calculation/generate_hijri.py
 
       - name: Commit & Push if changed
         run: |
           git add Hijridate_calculation/today_hijri.json
           if git diff --staged --quiet; then
-            echo "No changes."
+            echo "✅ No changes detected."
           else
-            git commit -m "Auto update Hijri date – $(date '+%Y-%m-%d %H:%M')"
+            git commit -m "🕌 Auto update Hijri date ($(date -u '+%Y-%m-%d %H:%M UTC'))"
             git push
           fi
