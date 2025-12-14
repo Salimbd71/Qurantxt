@@ -1,22 +1,27 @@
-# generate_hijri.py
+# Hijridate_calculation/generate_hijri.py
+
 from hijridate import Gregorian
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 import json
 import os
 
-# ফাইল সেভের সঠিক পথ
-OUTPUT_PATH = "Hijridate_calculation/today_hijri.json"
+# 🔹 Bangladesh timezone (UTC+6)
+BD_TZ = timezone(timedelta(hours=6))
 
-# আজকের গ্রেগরিয়ান তারিখ
-today = datetime.now()
+# 🔹 Output path
+OUTPUT_DIR = "Hijridate_calculation"
+OUTPUT_PATH = os.path.join(OUTPUT_DIR, "today_hijri.json")
+
+# 🔹 Bangladesh current date
+today = datetime.now(BD_TZ)
 g_year = today.year
 g_month = today.month
 g_day = today.day
 
-# হিজরীতে কনভার্ট (Umm al-Qura ক্যালেন্ডার – সৌদি অফিসিয়াল)
+# 🔹 Convert to Hijri (Umm al-Qura)
 hijri = Gregorian(g_year, g_month, g_day).to_hijri()
 
-# বাংলা মাসের নাম
+# 🔹 Bangla month names
 bangla_months = [
     "মুহাররম", "সফর", "রবিউল আউয়াল", "রবিউস সানি",
     "জমাদিউল আউয়াল", "জমাদিউস সানি", "রজব", "শা'বান",
@@ -27,6 +32,7 @@ month_bn = bangla_months[hijri.month - 1]
 
 data = {
     "status": "success",
+    "timezone": "Asia/Dhaka",
     "gregorian": today.strftime("%Y-%m-%d"),
     "hijri": {
         "day": hijri.day,
@@ -41,10 +47,10 @@ data = {
     "updated_at": today.isoformat()
 }
 
-# today_hijri.json ফাইলে সেভ করা
-os.makedirs("Hijridate_calculation", exist_ok=True)
+# 🔹 Save JSON
+os.makedirs(OUTPUT_DIR, exist_ok=True)
 with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
     json.dump(data, f, ensure_ascii=False, indent=2)
 
-print("today_hijri.json সফলভাবে আপডেট হয়েছে!")
-print(f"হিজরী তারিখ: {hijri.day} {month_bn} {hijri.year}")
+print("✅ today_hijri.json সফলভাবে আপডেট হয়েছে!")
+print(f"📅 হিজরী তারিখ: {hijri.day} {month_bn} {hijri.year}")
