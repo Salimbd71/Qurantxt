@@ -1,16 +1,16 @@
 {
   "status": "success",
   "timezone": "Asia/Dhaka",
-  "gregorian": "2025-12-20",
+  "gregorian": "2025-12-21",
   "hijri": {
-    "day": 29,
-    "month_number": 6,
-    "month_en": "Jumada al-Akhirah",
-    "month_bn": "জমাদিউস সানি",
+    "day": 1,
+    "month_number": 7,
+    "month_en": "Rajab",
+    "month_bn": "রজব",
     "year": 1447,
-    "full_bn": "29 জমাদিউস সানি 1447 হিজরী",
-    "full_en": "29 Jumada al-Akhirah 1447 AH",
-    "date": "1447-06-29"
+    "full_bn": "1 রজব 1447 হিজরী",
+    "full_en": "1 Rajab 1447 AH",
+    "date": "1447-07-01"
   },
-  "updated_at": "2025-12-20T07:08:01.796348+06:00"
+  "updated_at": "2025-12-21T00:17:37.968520+06:00"
 }
