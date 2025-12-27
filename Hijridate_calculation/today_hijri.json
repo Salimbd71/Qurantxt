@@ -1,16 +1,16 @@
 {
   "status": "success",
   "timezone": "Asia/Dhaka",
-  "gregorian": "2025-12-27",
+  "gregorian": "2025-12-28",
   "hijri": {
-    "day": 7,
+    "day": 8,
     "month_number": 7,
     "month_en": "Rajab",
     "month_bn": "রজব",
     "year": 1447,
-    "full_bn": "7 রজব 1447 হিজরী",
-    "full_en": "7 Rajab 1447 AH",
-    "date": "1447-07-07"
+    "full_bn": "8 রজব 1447 হিজরী",
+    "full_en": "8 Rajab 1447 AH",
+    "date": "1447-07-08"
   },
-  "updated_at": "2025-12-27T07:10:32.185364+06:00"
+  "updated_at": "2025-12-28T00:19:08.342094+06:00"
 }
