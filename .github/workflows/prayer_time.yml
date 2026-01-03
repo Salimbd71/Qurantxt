@@ -1,0 +1,30 @@
+name: Dhaka Prayer Time JSON
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # প্রতিদিন রাত ১২টায়
+  workflow_dispatch:
+
+jobs:
+  fetch-prayer-time:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Create folder if not exists
+        run: mkdir -p Prayer_fixed_time
+
+      - name: Fetch Prayer Time API
+        run: |
+          curl -s "https://islamicapi.com/api/v1/prayer-time?lat=23.8103&lon=90.4125&method=1&school=1&api_key=${{ secrets.ISLAMIC_API_KEY }}" \
+          > Prayer_fixed_time/prayer_time_dhaka.json
+
+      - name: Commit JSON file
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add Prayer_fixed_time/prayer_time_dhaka.json
+          git commit -m "Update Dhaka prayer time JSON" || echo "No changes"
+          git push
