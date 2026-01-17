@@ -1,0 +1,41 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 102,
+    "ayahs": [
+      {
+        "numberInSurah": 1,
+        "pronunciation": "আলহা-কুমুত্তাকা-ছু র।"
+      },
+      {
+        "numberInSurah": 2,
+        "pronunciation": "হাত্তা-ঝুরতুমুল মাকা-বির।"
+      },
+      {
+        "numberInSurah": 3,
+        "pronunciation": "কাল্লা-ছাওফা তা‘লামূন।"
+      },
+      {
+        "numberInSurah": 4,
+        "pronunciation": "ছু ম্মা কাল্লা-ছাওফা তা‘লামূন।"
+      },
+      {
+        "numberInSurah": 5,
+        "pronunciation": "কাল্লা-লাও তা‘লামূনা ‘ইলমাল ইয়াকীন।"
+      },
+      {
+        "numberInSurah": 6,
+        "pronunciation": "লাতারাউন্নাল জাহীমা"
+      },
+      {
+        "numberInSurah": 7,
+        "pronunciation": "ছু ম্মা লাতারাউন্নাহা-‘আইনাল ইয়াকীন।"
+      },
+      {
+        "numberInSurah": 8,
+        "pronunciation": "ছু ম্মা লাতুছআলুন্না ইয়াওমাইযিন ‘আনিন্না‘ঈম।"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 112,
+    "ayahs": [
+      {
+        "numberInSurah": 1,
+        "pronunciation": "কুল হুওয়াল্লা-হু আহাদ।"
+      },
+      {
+        "numberInSurah": 2,
+        "pronunciation": "আল্লা-হুসসামাদ।"
+      },
+      {
+        "numberInSurah": 3,
+        "pronunciation": "লাম ইয়ালিদ ওয়ালাম ইঊলাদ।"
+      },
+      {
+        "numberInSurah": 4,
+        "pronunciation": "ওয়া লাম ইয়াকুল্লাহূকুফুওয়ান আহাদ।"
+      }
+    ]
+  }
+}

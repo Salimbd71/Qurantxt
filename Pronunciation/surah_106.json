@@ -1,0 +1,25 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 106,
+    "ayahs": [
+      {
+        "numberInSurah": 1,
+        "pronunciation": "লিঈলা-ফি কুরাইশ।"
+      },
+      {
+        "numberInSurah": 2,
+        "pronunciation": "ঈলা-ফিহিম রিহলাতাশশিতাই ওয়াসসাঈফ।"
+      },
+      {
+        "numberInSurah": 3,
+        "pronunciation": "ফালইয়া‘বুদূরাব্বা হা-যাল বাঈত।"
+      },
+      {
+        "numberInSurah": 4,
+        "pronunciation": "আল্লাযীআতা‘আমাহুম মিন জূ‘ইওঁ ওয়া আ-মানাহুম মিন খাওফ।"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 114,
+    "ayahs": [
+      {
+        "numberInSurah": 1,
+        "pronunciation": "কুল আ‘ঊযুবিরাব্বিন্না-ছ,"
+      },
+      {
+        "numberInSurah": 2,
+        "pronunciation": "মালিকিন্না-ছ,"
+      },
+      {
+        "numberInSurah": 3,
+        "pronunciation": "ইলা-হিন্না-ছ।"
+      },
+      {
+        "numberInSurah": 4,
+        "pronunciation": "মিন শাররিল ওয়াছ ওয়া-ছিল খান্না-ছ।"
+      },
+      {
+        "numberInSurah": 5,
+        "pronunciation": "আল্লাযী ইউওয়াছবিছুফী সুদূরিন্নাছ-।"
+      },
+      {
+        "numberInSurah": 6,
+        "pronunciation": "মিনাল জিন্নাতি ওয়ান্না-ছ।"
+      }
+    ]
+  }
+}

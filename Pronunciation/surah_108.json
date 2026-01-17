@@ -1,0 +1,21 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 108,
+    "ayahs": [
+      {
+        "numberInSurah": 1,
+        "pronunciation": "ইন্নাআ‘তাইনা-কাল কাওছার।"
+      },
+      {
+        "numberInSurah": 2,
+        "pronunciation": "ফাসালিল লিরাব্বিকা ওয়ানহার।"
+      },
+      {
+        "numberInSurah": 3,
+        "pronunciation": "ইন্না শা-নিআকা হুওয়াল আবতার।"
+      }
+    ]
+  }
+}

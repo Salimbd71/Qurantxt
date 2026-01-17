@@ -1,0 +1,37 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 107,
+    "ayahs": [
+      {
+        "numberInSurah": 1,
+        "pronunciation": "আরাআইতাল্লাযী ইউকাযযি বুবিদ্দীন।"
+      },
+      {
+        "numberInSurah": 2,
+        "pronunciation": "ফাযা-লিকাল্লাযী ইয়াদু‘‘উল ইয়াতীম।"
+      },
+      {
+        "numberInSurah": 3,
+        "pronunciation": "ওয়ালা-ইয়াহুদ্দু‘আলা-তা‘আ-মিল মিছকীন।"
+      },
+      {
+        "numberInSurah": 4,
+        "pronunciation": "ফাওয়াইঁলুলিলল মুসাল্লীন।"
+      },
+      {
+        "numberInSurah": 5,
+        "pronunciation": "আল্লাযীনাহুম ‘আন সালা-তিহিমি ছা-হূন।"
+      },
+      {
+        "numberInSurah": 6,
+        "pronunciation": "আল্লাযীনা হুম ইউরাঊনা।"
+      },
+      {
+        "numberInSurah": 7,
+        "pronunciation": "ওয়া ইয়ামনা‘ঊনাল মা-‘ঊন।"
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 111,
+    "ayahs": [
+      {
+        "numberInSurah": 1,
+        "pronunciation": "তাব্বাত ইয়াদাআবী লাহাবিওঁ ওয়া তাবব।"
+      },
+      {
+        "numberInSurah": 2,
+        "pronunciation": "মাআগনা-‘আনহু মা-লুহূওয়ামা-কাছাব।"
+      },
+      {
+        "numberInSurah": 3,
+        "pronunciation": "ছাইয়াসলা-না-রান যা-তা লাহাব।"
+      },
+      {
+        "numberInSurah": 4,
+        "pronunciation": "ওয়ামরাআতুহূ; হাম্মা-লাতাল হাতাব।"
+      },
+      {
+        "numberInSurah": 5,
+        "pronunciation": "ফী জীদিহা-হাবলুম মিম মাছাদ।"
+      }
+    ]
+  }
+}
