@@ -1,0 +1,77 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 86,
+    "ayahs": [
+      {
+        "numberInSurah": 1,
+        "pronunciation": "ওয়াছ ছামাই ওয়াততা-রিক।"
+      },
+      {
+        "numberInSurah": 2,
+        "pronunciation": "ওয়া মাআদরা-কা মাত্তা-রিক।"
+      },
+      {
+        "numberInSurah": 3,
+        "pronunciation": "আন্নাজমুছছা-কিব।"
+      },
+      {
+        "numberInSurah": 4,
+        "pronunciation": "ইন কুল্লুনাফছিল লাম্মা-‘আলাইহা-হা-ফিজ।"
+      },
+      {
+        "numberInSurah": 5,
+        "pronunciation": "ফালইয়ানযুরিল ইনছা-নুমিম্মা খুলিক।"
+      },
+      {
+        "numberInSurah": 6,
+        "pronunciation": "খুলিকা মিম্মাইন দা-ফিকি।"
+      },
+      {
+        "numberInSurah": 7,
+        "pronunciation": "ইয়াখরুজুমিম বাইনিসসুলবি ওয়াত্তারাইব।"
+      },
+      {
+        "numberInSurah": 8,
+        "pronunciation": "ইন্নাহূ‘আলা-রাজ‘ইহী লাকা-দির।"
+      },
+      {
+        "numberInSurah": 9,
+        "pronunciation": "ইয়াওমা তুবলাছ ছারাইর।"
+      },
+      {
+        "numberInSurah": 10,
+        "pronunciation": "ফামা-লাহূমিন কুওওয়াতিওঁ ওয়ালা-না-সির।"
+      },
+      {
+        "numberInSurah": 11,
+        "pronunciation": "ওয়াছ ছামাই যা-তির রাজ‘ই।"
+      },
+      {
+        "numberInSurah": 12,
+        "pronunciation": "ওয়াল আরদিযা-তিসসাদ‘ই।"
+      },
+      {
+        "numberInSurah": 13,
+        "pronunciation": "ইন্নাহূলাকাওলুন ফাসল।"
+      },
+      {
+        "numberInSurah": 14,
+        "pronunciation": "ওয়ামা-হুওয়া বিল হাঝলি।"
+      },
+      {
+        "numberInSurah": 15,
+        "pronunciation": "ইন্নাহুম ইয়াকীদূনা কাইদাওঁ।"
+      },
+      {
+        "numberInSurah": 16,
+        "pronunciation": "ওয়া আকীদুকাইদা-।"
+      },
+      {
+        "numberInSurah": 17,
+        "pronunciation": "ফামাহহিলিল কা-ফিরীনা আমহিলহুম রুওয়াইদা-।"
+      }
+    ]
+  }
+}

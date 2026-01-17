@@ -1,0 +1,53 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 93,
+    "ayahs": [
+      {
+        "numberInSurah": 1,
+        "pronunciation": "ওয়াদদু হা-।"
+      },
+      {
+        "numberInSurah": 2,
+        "pronunciation": "ওয়াল্লাইলি ইযা-ছাজা-।"
+      },
+      {
+        "numberInSurah": 3,
+        "pronunciation": "মা-ওয়াদ্দা‘আকা রাব্বুকা ওয়ামা-কালা-।"
+      },
+      {
+        "numberInSurah": 4,
+        "pronunciation": "ওয়ালাল আ-খিরাতুখাইরুল্লাকা মিনাল ঊলা-।"
+      },
+      {
+        "numberInSurah": 5,
+        "pronunciation": "ওয়া লাছাওফা ইউ‘তীকা রাব্বুকা ফাতারদা-।"
+      },
+      {
+        "numberInSurah": 6,
+        "pronunciation": "আলাম ইয়াজিদকা ইয়াতীমান ফাআ-ওয়া-।"
+      },
+      {
+        "numberInSurah": 7,
+        "pronunciation": "ওয়া ওয়াজাদাকা দাল্লান ফাহাদা-।"
+      },
+      {
+        "numberInSurah": 8,
+        "pronunciation": "ওয়া ওয়াজাদাকা ‘আইলান ফাআগনা-।"
+      },
+      {
+        "numberInSurah": 9,
+        "pronunciation": "ফাআম্মাল ইয়াতীমা ফালা-তাকহার।"
+      },
+      {
+        "numberInSurah": 10,
+        "pronunciation": "ওয়া আম্মাছ ছাইলা ফালা-তানহার।"
+      },
+      {
+        "numberInSurah": 11,
+        "pronunciation": "ওয়া আম্মা-বিনি‘মাতি রাব্বিকা ফাহাদ্দিছ।"
+      }
+    ]
+  }
+}

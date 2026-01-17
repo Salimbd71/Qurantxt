@@ -1,0 +1,85 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 96,
+    "ayahs": [
+      {
+        "numberInSurah": 1,
+        "pronunciation": "ইকরা বিছমি রাব্বিকাল্লাযী খালাক।"
+      },
+      {
+        "numberInSurah": 2,
+        "pronunciation": "খালাকাল ইনছা-না মিন ‘আলাক।"
+      },
+      {
+        "numberInSurah": 3,
+        "pronunciation": "ইকরা’ ওয়া রাব্বুকাল আকরাম"
+      },
+      {
+        "numberInSurah": 4,
+        "pronunciation": "অল্লাযী ‘আল্লামা বিলকালাম।"
+      },
+      {
+        "numberInSurah": 5,
+        "pronunciation": "‘আল্লামাল ইনছা-না-মা-লাম ইয়া‘লাম।"
+      },
+      {
+        "numberInSurah": 6,
+        "pronunciation": "কাল্লাইন্নাল ইনছা-না লাইয়াতগা।"
+      },
+      {
+        "numberInSurah": 7,
+        "pronunciation": "আররাআ-হুছ তাগনা-।"
+      },
+      {
+        "numberInSurah": 8,
+        "pronunciation": "ইন্না ইলা-রাব্বিকার রুজ‘আ-।"
+      },
+      {
+        "numberInSurah": 9,
+        "pronunciation": "আরাআইতাল্লাযী ইয়ানহা-"
+      },
+      {
+        "numberInSurah": 10,
+        "pronunciation": "‘আবদান ইযা-সাল্লা-।"
+      },
+      {
+        "numberInSurah": 11,
+        "pronunciation": "আরাআইতা ইন কা-না ‘আলাল হুদা।"
+      },
+      {
+        "numberInSurah": 12,
+        "pronunciation": "আও আমারা বিত্তাকাওয়া-।"
+      },
+      {
+        "numberInSurah": 13,
+        "pronunciation": "আরাআইতা ইন কাযযাবা ওয়া তাওয়াল্লা-।"
+      },
+      {
+        "numberInSurah": 14,
+        "pronunciation": "আলাম ইয়া‘লাম বিআন্নাল্লা-হা ইয়ারা-।"
+      },
+      {
+        "numberInSurah": 15,
+        "pronunciation": "কাল্লা-লাইল্লাম ইয়ানতাহি লানাছফা‘আম বিন্না-সিয়াহ।"
+      },
+      {
+        "numberInSurah": 16,
+        "pronunciation": "না-সিয়াতিন কা-যিবাতিন খা-তিআহ।"
+      },
+      {
+        "numberInSurah": 17,
+        "pronunciation": "ফালইয়াদ‘উ নাদিয়াহ,"
+      },
+      {
+        "numberInSurah": 18,
+        "pronunciation": "ছানাদ‘উঝঝাবা-নিয়াহ।"
+      },
+      {
+        "numberInSurah": 19,
+        "pronunciation": "কাল্লা- লা-তুতি‘হু ওয়াছজু দ ওয়াকতারিব (ছিজদাহ-১৪)।"
+      }
+    ]
+  }
+}

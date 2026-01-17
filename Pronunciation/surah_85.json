@@ -1,0 +1,97 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 85,
+    "ayahs": [
+      {
+        "numberInSurah": 1,
+        "pronunciation": "ওয়াছ ছামাই যা-তিল বুরূজ।"
+      },
+      {
+        "numberInSurah": 2,
+        "pronunciation": "ওয়াল ইয়াওমিল মাও‘ঊদ।"
+      },
+      {
+        "numberInSurah": 3,
+        "pronunciation": "ওয়া শা-হিদিওঁ ওয়া মাশহূদ।"
+      },
+      {
+        "numberInSurah": 4,
+        "pronunciation": "কুতিলা আসহা-বুল উখদূদ ।"
+      },
+      {
+        "numberInSurah": 5,
+        "pronunciation": "আন্না-রি যা-তিল ওয়াকূদ।"
+      },
+      {
+        "numberInSurah": 6,
+        "pronunciation": "ইযহুম ‘আলাইহা-কু‘ঊদ।"
+      },
+      {
+        "numberInSurah": 7,
+        "pronunciation": "ওয়া হুম ‘আলা-মা-ইয়াফ‘আলূনা বিলমু’মিনীনা শুহূদ।"
+      },
+      {
+        "numberInSurah": 8,
+        "pronunciation": "ওয়া মা-নাকামূমিনহুম ইল্লাআইঁ ইউ’মিনূবিল্লা-হিল ‘আঝীঝিল হামীদ।"
+      },
+      {
+        "numberInSurah": 9,
+        "pronunciation": "আল্লাযী লাহূমুলকুছ ছামা-ওয়া-তি ওয়াল আরদি ওয়াল্লা-হু ‘আলা-কুল্লি শাইয়িন শাহীদ।"
+      },
+      {
+        "numberInSurah": 10,
+        "pronunciation": "ইন্নাল্লাযীনা ফাতানুলমু’মিনীন ওয়াল মু’মিনা-তি ছু ম্মা লাম ইয়াতূবূফালাহুম ‘আযা-বু জাহান্নামা ওয়া লাহুম ‘আযা-বুল হারীক।"
+      },
+      {
+        "numberInSurah": 11,
+        "pronunciation": "ইন্নাল্লাযীনা আ-মানূওয়া ‘আমিলুসসা-লিহা-তি লাহুম জান্না-তুন তাজরী মিন তাহতিহাল আনহা-রু যা-লিকাল ফাওঝুল কাবীর।"
+      },
+      {
+        "numberInSurah": 12,
+        "pronunciation": "ইন্না বাতশা রাব্বিকা লাশাদীদ।"
+      },
+      {
+        "numberInSurah": 13,
+        "pronunciation": "ইন্নাহূহুওয়া ইউবদিউ ওয়া ইউ‘ঈদ।"
+      },
+      {
+        "numberInSurah": 14,
+        "pronunciation": "ওয়া হুওয়াল গাফূরুল ওয়াদূদু।"
+      },
+      {
+        "numberInSurah": 15,
+        "pronunciation": "যুল ‘আরশিল মাজীদ।"
+      },
+      {
+        "numberInSurah": 16,
+        "pronunciation": "ফা‘‘আ-লুলিলমা-ইউরীদ।"
+      },
+      {
+        "numberInSurah": 17,
+        "pronunciation": "হাল আতা-কা হাদীছুল জুনূদ।"
+      },
+      {
+        "numberInSurah": 18,
+        "pronunciation": "ফির‘আওনা ওয়া ছামূদ।"
+      },
+      {
+        "numberInSurah": 19,
+        "pronunciation": "বালিল্লাযীনা কাফারূফী তাকযীব ।"
+      },
+      {
+        "numberInSurah": 20,
+        "pronunciation": "ওয়াল্লা-হু মিওঁ ওয়ারাইহিম মুহীত।"
+      },
+      {
+        "numberInSurah": 21,
+        "pronunciation": "বাল হুওয়া কুরআ-নুমমাজীদুন।"
+      },
+      {
+        "numberInSurah": 22,
+        "pronunciation": "ফী লাওহিম মাহফূজ।"
+      }
+    ]
+  }
+}

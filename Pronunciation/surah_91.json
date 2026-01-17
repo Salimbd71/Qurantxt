@@ -1,0 +1,69 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 91,
+    "ayahs": [
+      {
+        "numberInSurah": 1,
+        "pronunciation": "ওয়াশ শামছি ওয়াদু হা-হা-।"
+      },
+      {
+        "numberInSurah": 2,
+        "pronunciation": "ওয়াল কামারি ইযা-তালা-হা-।"
+      },
+      {
+        "numberInSurah": 3,
+        "pronunciation": "ওয়ান্নাহা-রি ইযা জাল্লা-হা-।"
+      },
+      {
+        "numberInSurah": 4,
+        "pronunciation": "ওয়াল্লাইলি ইযা-ইয়াগশা-হা-।"
+      },
+      {
+        "numberInSurah": 5,
+        "pronunciation": "ওয়াছ ছামাই ওয়ামা-বানা-হা-।"
+      },
+      {
+        "numberInSurah": 6,
+        "pronunciation": "ওয়াল আরদিওয়ামা-তাহা-হা-।"
+      },
+      {
+        "numberInSurah": 7,
+        "pronunciation": "ওয়া নাফছিওঁ ওয়া মা-ছাওওয়া-হা-।"
+      },
+      {
+        "numberInSurah": 8,
+        "pronunciation": "ফাআলহামাহা-ফুজূরাহা-ওয়া তাকওয়া-হা-।"
+      },
+      {
+        "numberInSurah": 9,
+        "pronunciation": "কাদ আফলাহা মান ঝাক্কা-হা-।"
+      },
+      {
+        "numberInSurah": 10,
+        "pronunciation": "ওয়া কাদ খা-বা মান দাছ ছা-হা-।"
+      },
+      {
+        "numberInSurah": 11,
+        "pronunciation": "কাযযাবাত ছামূদুবিতাগওয়া-হা।"
+      },
+      {
+        "numberInSurah": 12,
+        "pronunciation": "ইযিম বা‘আছা আশকা-হা-।"
+      },
+      {
+        "numberInSurah": 13,
+        "pronunciation": "ফাকা-লা লাহুম রাছূলুল্লা-হি না-কাতাল্লা-হি ওয়া ছুকইয়া-হা-।"
+      },
+      {
+        "numberInSurah": 14,
+        "pronunciation": "ফাকাযযাবূহু ফা‘আকারূহা- ফাদামদামা ‘আলাইহিম রাব্বুহুম বিযামবিহিম ফাছাওওয়াহা-।"
+      },
+      {
+        "numberInSurah": 15,
+        "pronunciation": "ওয়ালা-ইয়াখা-ফু‘উকবা-হা-।"
+      }
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 90,
+    "ayahs": [
+      {
+        "numberInSurah": 1,
+        "pronunciation": "লাউকছিমুবিহা-যাল বালাদ।"
+      },
+      {
+        "numberInSurah": 2,
+        "pronunciation": "ওয়া আনতা হিল্লুম বিহা-যাল বালাদ।"
+      },
+      {
+        "numberInSurah": 3,
+        "pronunciation": "ওয়া ওয়া-লিদিওঁ ওয়ামা-ওয়ালাদ।"
+      },
+      {
+        "numberInSurah": 4,
+        "pronunciation": "লাকাদ খালাকনাল ইনছা-না ফী কাবাদ।"
+      },
+      {
+        "numberInSurah": 5,
+        "pronunciation": "ওয়া ইয়াহছাবুআল্লাইঁ ইয়াকদিরা ‘আলাইহি আহাদ।"
+      },
+      {
+        "numberInSurah": 6,
+        "pronunciation": "ইয়াকূ লুআহলাকতুমা-লাল লুবাদা-।"
+      },
+      {
+        "numberInSurah": 7,
+        "pronunciation": "আইয়াহছাবুআল্লাম ইয়ারাহূআহাদ।"
+      },
+      {
+        "numberInSurah": 8,
+        "pronunciation": "আলাম নাজ‘আল্লাহূ‘আইনাইন।"
+      },
+      {
+        "numberInSurah": 9,
+        "pronunciation": "ওয়া লিছা-নাওঁ ওয়া শাফাতাইন।"
+      },
+      {
+        "numberInSurah": 10,
+        "pronunciation": "ওয়া হাদাইনা-হুন্নাজদাঈন।"
+      },
+      {
+        "numberInSurah": 11,
+        "pronunciation": "ফালাকতাহামাল ‘আকাবাহ।"
+      },
+      {
+        "numberInSurah": 12,
+        "pronunciation": "ওয়ামাআদরা-কা মাল ‘আকাবাহ।"
+      },
+      {
+        "numberInSurah": 13,
+        "pronunciation": "ফাক্কুরাকাবাহ ।"
+      },
+      {
+        "numberInSurah": 14,
+        "pronunciation": "আও ইত‘আ-মুন ফী ইয়াওমিন যী মাছগাবাহ ।"
+      },
+      {
+        "numberInSurah": 15,
+        "pronunciation": "ইয়াতীমান যা-মাকরাবাহ।"
+      },
+      {
+        "numberInSurah": 16,
+        "pronunciation": "আও মিছকীনান যা-মাতরাবাহ।"
+      },
+      {
+        "numberInSurah": 17,
+        "pronunciation": "ছু ম্মা কা-না মিনাল্লাযীনা আ-মানূওয়াতাওয়া-সাও বিসসাবরি ওয়াতাওয়া-সাও বিল মারহামাহ।"
+      },
+      {
+        "numberInSurah": 18,
+        "pronunciation": "উলাইকা আসহা-বুল মাইমানাহ।"
+      },
+      {
+        "numberInSurah": 19,
+        "pronunciation": "ওয়াল্লাযীনা কাফারূবিআ-য়া-তিনা-হুম আসহা-বুল মাশআমাহ।"
+      },
+      {
+        "numberInSurah": 20,
+        "pronunciation": "‘আলাইহিম না-রুম মু’সাদাহ।"
+      }
+    ]
+  }
+}
