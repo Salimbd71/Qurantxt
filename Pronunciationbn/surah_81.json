@@ -1,0 +1,342 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 81,
+    "name": "سُورَةُ التَّكۡوِيرِ",
+    "englishName": "At-Takwir",
+    "englishNameTranslation": "The Overthrowing",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 29,
+    "ayahs": [
+      {
+        "number": 5801,
+        "text": "ইযাশশামছুকুওবিরাত।",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5802,
+        "text": "ওয়া ইযাননুজূমুন কাদারাত।",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5803,
+        "text": "ওয়া ইযাল জিবা-লুছুইয়িরাত।",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5804,
+        "text": "ওয়া ইযাল ‘ইশা-রু ‘উত্তিলাত।",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5805,
+        "text": "ওয়া ইযাল উহূশু হুশিরাত।",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5806,
+        "text": "ওয়া ইযাল বিহা-রু ছুজ্জিরাত।",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5807,
+        "text": "ওয়া ইযাননুফূছুঝুওবিজাত।",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5808,
+        "text": "ওয়া ইযাল মাওঊদাতুছুইলাত।",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5809,
+        "text": "বিআইয়ি যামবিন কুতিলাত।",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5810,
+        "text": "ওয়া ইযাসসুহুফুনুশিরাত।",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5811,
+        "text": "ওয়া ইয়াছ ছামাউ কুশিতাত।",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5812,
+        "text": "ওয়া ইযাল জাহীমুছু‘‘য়িরাত।",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5813,
+        "text": "ওয়া ইযাল জান্নাতুউঝলিফাত।",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5814,
+        "text": "‘আলিমাত নাফছুম মাআহদারাত।",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5815,
+        "text": "ফালা উকছিমুবিলখুন্নাছ।",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5816,
+        "text": "আল জাওয়া-রিল কুন্নাছ।",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5817,
+        "text": "ওয়াল্লাইলি ইযা-‘আছ‘আছ।",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5818,
+        "text": "ওয়াসসুবহিইযা-তানাফফাছ।",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5819,
+        "text": "ইন্নাহূলাকাওলুরাছূলিন কারীম।",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5820,
+        "text": "যী কুওওয়াতিন ‘ইনদা যিল ‘আরশি মাকীন।",
+        "numberInSurah": 20,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5821,
+        "text": "মুতা-‘ইন ছাম্মা আমীন।",
+        "numberInSurah": 21,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5822,
+        "text": "ওয়া মা-সা-হিবুকুম বিমাজনূন।",
+        "numberInSurah": 22,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5823,
+        "text": "ওয়া লাকাদ রাআ-হু বিলউফুকিল মুবীন।",
+        "numberInSurah": 23,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5824,
+        "text": "ওয়ামা-হুওয়া ‘আলাল গাইবি বিদানীন।",
+        "numberInSurah": 24,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5825,
+        "text": "ওয়ামা-হুওয়া বিকাওলি শাইতা-নির রাজীম।",
+        "numberInSurah": 25,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5826,
+        "text": "ফাআইনা তাযহাবূন।",
+        "numberInSurah": 26,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5827,
+        "text": "ইন হুওয়া ইল্লা-যিকরুল লিল‘আ-লামীন।",
+        "numberInSurah": 27,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5828,
+        "text": "লিমান শাআ মিনকুম আইঁ ইয়াছতাকীম।",
+        "numberInSurah": 28,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      },
+      {
+        "number": 5829,
+        "text": "ওয়ামা-তাশাঊনা ইল্লাআইঁ ইয়াশাআল্লা-হু রাব্বুল ‘আ-লামীন।",
+        "numberInSurah": 29,
+        "juz": 30,
+        "manzil": 7,
+        "page": 586,
+        "ruku": 523,
+        "hizbQuarter": 234,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-uthmani-quran-academy",
+      "language": "ar",
+      "name": "القرآن الكريم برسم العثماني (quran-academy)",
+      "englishName": "Modified Quran Uthmani Text from the Quran Academy to work with the Kitab font",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

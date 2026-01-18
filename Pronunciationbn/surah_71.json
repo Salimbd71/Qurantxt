@@ -1,0 +1,331 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 71,
+    "name": "سُورَةُ نُوحٍ",
+    "englishName": "Nooh",
+    "englishNameTranslation": "Noah",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 28,
+    "ayahs": [
+      {
+        "number": 5420,
+        "text": "ইন্নাআরছালনা-নূহান ইলা-কাওমিহীআন আনযিরকাওমাকা মিন কাবলি আইঁ ইয়া’তিয়াহুম ‘আযা-বুন আলীম।",
+        "numberInSurah": 1,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5421,
+        "text": "কা-লা ইয়া- কাওমি ইন্নী লাকুম নাযীরুম মুবীন।",
+        "numberInSurah": 2,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5422,
+        "text": "আনি‘বুদুল্লা-হা ওয়াত্তাকূহু ওয়া আতী‘ঊন।",
+        "numberInSurah": 3,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5423,
+        "text": "ইয়াগফিরলাকুম মিন যুনূবিকুম ওয়া ইউআখখিরকুম ইলাআজালিম মুছাম্মা- ইন্না আজালাল্লা-হি ইযা-জাআ লা-ইউআখখার । লাও কুনতুম তা‘লামূন।",
+        "numberInSurah": 4,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5424,
+        "text": "কা-লা রাব্বি ইন্নী দা‘আওতুকাওমী লাইলাওঁ ওয়া নাহা-রা- ।",
+        "numberInSurah": 5,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5425,
+        "text": "ফালাম ইয়াঝিদহুম দু‘আঈইল্লা-ফিরা-রা-।",
+        "numberInSurah": 6,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5426,
+        "text": "ওয়া ইন্নী কুল্লামা-দা‘আওতুহুম লিতাগফিরালাহুম জা‘আলূআসা-বি‘আহুম ফীআ-যানিহিম ওয়াছতাগশাও ছিয়া-বাহুম ওয়া আছাররূ ওয়াছতাকবারুছ তিকবা-রা- ।",
+        "numberInSurah": 7,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5427,
+        "text": "ছু ম্মা ইন্নী- দা‘আওতুহুম জিহা-রা- ।",
+        "numberInSurah": 8,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5428,
+        "text": "ছু ম্মা ইন্নীআ‘লানতুলাহুম ওয়া আছরারতুলাহুম ইছরা-রা-।",
+        "numberInSurah": 9,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5429,
+        "text": "ফাকুলতুছতাগফিরূ রাব্বাকুম ইন্নাহূকা-না গাফফা-রা-।",
+        "numberInSurah": 10,
+        "juz": 29,
+        "manzil": 7,
+        "page": 570,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5430,
+        "text": "ইউরছিলিছ ছামাআ ‘আলাইকুম মিদরা-রা- ।",
+        "numberInSurah": 11,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5431,
+        "text": "ওয়া ইউমদিদকুম বিআমওয়া-লিওঁ ওয়াবানীনা ওয়া ইয়াজ‘আল্লাকুমজান্না-তিওঁ ওয়া ইয়াজ‘আল্লাকুম আনহা-রা- ।",
+        "numberInSurah": 12,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5432,
+        "text": "মা-লাকুম লা-তারজূনা লিল্লা-হি ওয়াকা-রা- ।",
+        "numberInSurah": 13,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5433,
+        "text": "ওয়া কাদ খালাকাকুম আতওয়া-রা- ।",
+        "numberInSurah": 14,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5434,
+        "text": "আলাম তারাও কাইফা খালাকাল্লা-হু ছাব‘আ ছামা-ওয়া-তিন তিবা-কা-।",
+        "numberInSurah": 15,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5435,
+        "text": "ওয়া জা‘আলাল কামারা ফীহিন্না নূরাওঁ ওয়া জা‘আলাশশামছা ছিরা-জা- ।",
+        "numberInSurah": 16,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5436,
+        "text": "ওয়াল্লা- হু আমবাতাকুম মিনাল আরদিনাবা-তা- ।",
+        "numberInSurah": 17,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5437,
+        "text": "ছু ম্মা ইউ‘ঈদুকুম ফীহা- ওয়া ইউখরিজুকুম ইখরা-জা- ।",
+        "numberInSurah": 18,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5438,
+        "text": "ওয়াল্লা-হু জা‘আলা লাকুমুল আরদা বিছা-তা- ।",
+        "numberInSurah": 19,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5439,
+        "text": "লিতাছলুকূমিনহা-ছুবুলান ফিজা-জা- ।",
+        "numberInSurah": 20,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 504,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5440,
+        "text": "কা-লা নূহুররাব্বি ইন্নাহুম ‘আসাওনী ওয়াত্তাবা‘ঊ মাল্লাম ইয়াঝিদহু মা-লুহূওয়া ওয়ালাদুহূ ইল্লা- খাছা-রা- ।",
+        "numberInSurah": 21,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5441,
+        "text": "ওয়া মাকারূ মাকরান কুব্বা-রা- ।",
+        "numberInSurah": 22,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5442,
+        "text": "ওয়া কালূলা- তাযারুন্না আ-লিহাতাকুম ওয়ালা- তাযারুন্না ওয়াদ্দাওঁ ওয়ালা-ছুওয়া-‘আওঁ ওয়ালা- ইয়াগূছা ওয়া ইয়া‘ঊকা ওয়া নাছরা- ।",
+        "numberInSurah": 23,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5443,
+        "text": "ওয়া কাদ আদাল্লুকাছীরাওঁ ওয়ালা-তাঝিদিজ্জা-লিমীনা ইল্লা-দালা-লা- ।",
+        "numberInSurah": 24,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5444,
+        "text": "মিম্মা খাতীআতিহিম উগরিকুফাউদখিলূনা-রান ফালাম ইয়াজিদূলাহুম মিন দূ নিল্লা- হি আনসা-রা- ।",
+        "numberInSurah": 25,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5445,
+        "text": "ওয়া কা-লা নূহুররাব্বি লা-তাযার ‘আলাল আরদিমিনাল কা-ফিরীনা দাইইয়া-রা- ।",
+        "numberInSurah": 26,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5446,
+        "text": "ইন্নাকা ইন তাযারহুম ইউদিল্লু‘ইবা- দাকা ওয়ালা- ইয়ালিদূ ইল্লা- ফা-জিরান কাফফা-রা- ।",
+        "numberInSurah": 27,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5447,
+        "text": "রাব্বিগফিরলী ওয়ালিওয়া-লিদাইইয়া ওয়া লিমান দাখালা বাইতিয়া মু’মিনাওঁ ওয়া লিলমু’মিনীনা ওয়াল মু’মিনা-তি ওয়ালা- তাঝিদিজ্জা-লিমীনা ইল্লা-তাবা-রা-।",
+        "numberInSurah": 28,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-uthmani-quran-academy",
+      "language": "ar",
+      "name": "القرآن الكريم برسم العثماني (quran-academy)",
+      "englishName": "Modified Quran Uthmani Text from the Quran Academy to work with the Kitab font",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

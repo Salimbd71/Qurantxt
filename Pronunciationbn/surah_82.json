@@ -1,0 +1,232 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 82,
+    "name": "سُورَةُ الانفِطَارِ",
+    "englishName": "Al-Infitaar",
+    "englishNameTranslation": "The Cleaving",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 19,
+    "ayahs": [
+      {
+        "number": 5830,
+        "text": "ইযাছ ছামাউন ফাতারাত।",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5831,
+        "text": "ওয়া ইযাল কাওয়া-কিবুন তাছারাত।",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5832,
+        "text": "ওয়া ইযাল বিহা-রু ফুজ্জিরাত।",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5833,
+        "text": "ওয়া ইযাল কুবূরু বু‘ছিরাত।",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5834,
+        "text": "‘আলিমাত নাফছুম মা-কাদ্দামাত ওয়া আখখারাত।",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5835,
+        "text": "ইয়াআইয়ূহাল ইনছা-নুমা-গাররাকা বিরাব্বিকাল কারীম।",
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5836,
+        "text": "আল্লাযী খালাকাকা ফাছাওওয়া-কা ফা‘আদালাক।",
+        "numberInSurah": 7,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5837,
+        "text": "ফীআইয়ি সূরাতিম মা- শাআ রাক্কাবাক।",
+        "numberInSurah": 8,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5838,
+        "text": "কাল্লা-বাল তুকাযযিবূনা বিদ্দীন।",
+        "numberInSurah": 9,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5839,
+        "text": "ওয়া ইন্না ‘আলাইকুম লাহা-ফিজীন।",
+        "numberInSurah": 10,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5840,
+        "text": "কিরা-মান কা-তিবীন।",
+        "numberInSurah": 11,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5841,
+        "text": "ইয়া‘লামূনা মা-তাফ‘আলূন।",
+        "numberInSurah": 12,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5842,
+        "text": "ইন্নাল আবরা-রা লাফী না‘ঈম।",
+        "numberInSurah": 13,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5843,
+        "text": "ওয়া ইন্নাল ফুজ্জা-রা লাফী জাহীম।",
+        "numberInSurah": 14,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5844,
+        "text": "ইয়াসলাওনাহা-ইয়াওমাদ্দীন।",
+        "numberInSurah": 15,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5845,
+        "text": "ওয়ামা-হুম ‘আনহা-বিগাইবীন।",
+        "numberInSurah": 16,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5846,
+        "text": "ওয়ামাআদরা-কা মা-ইয়াওমুদ্দীন।",
+        "numberInSurah": 17,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5847,
+        "text": "ছু ম্মা মাআদরা-কা মা-ইয়াওমুদ্দীন।",
+        "numberInSurah": 18,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      },
+      {
+        "number": 5848,
+        "text": "ইয়াওমা লা-তামলিকুনাফছুল লিনাফছিন শাইআওঁ ওয়াল আমরু ইয়াওমাইযিল লিল্লা-হি।",
+        "numberInSurah": 19,
+        "juz": 30,
+        "manzil": 7,
+        "page": 587,
+        "ruku": 524,
+        "hizbQuarter": 235,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-uthmani-quran-academy",
+      "language": "ar",
+      "name": "القرآن الكريم برسم العثماني (quran-academy)",
+      "englishName": "Modified Quran Uthmani Text from the Quran Academy to work with the Kitab font",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 97,
+    "name": "سُورَةُ القَدۡرِ",
+    "englishName": "Al-Qadr",
+    "englishNameTranslation": "The Power, Fate",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 5,
+    "ayahs": [
+      {
+        "number": 6126,
+        "text": "ইন্নাআনঝালনা-হু ফী লাইলাতিল কাদর।",
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 539,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6127,
+        "text": "ওয়ামাআদরা-কা-মা-লাইলাতুল কাদর।",
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 539,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6128,
+        "text": "লাইলাতুল কাদরি খাইরুম মিন আলফি শাহর।",
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 539,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6129,
+        "text": "তানাঝঝালুল মালাইকাতুওয়াররুহু ফীহা-বিইযনি রাব্বিহিম  মিন কুল্লি আমর।",
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 539,
+        "hizbQuarter": 239,
+        "sajda": false
+      },
+      {
+        "number": 6130,
+        "text": "ছালা-মুন ( ϣ ϊ)হিয়া হাত্তা-মাতলা‘ইল ফাজর।",
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 598,
+        "ruku": 539,
+        "hizbQuarter": 239,
+        "sajda": false
+      }
+    ],
+    "edition": {
+      "identifier": "quran-uthmani-quran-academy",
+      "language": "ar",
+      "name": "القرآن الكريم برسم العثماني (quran-academy)",
+      "englishName": "Modified Quran Uthmani Text from the Quran Academy to work with the Kitab font",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}
