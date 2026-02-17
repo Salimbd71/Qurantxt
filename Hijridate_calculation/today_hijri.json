@@ -1,16 +1,16 @@
 {
   "status": "success",
   "timezone": "Asia/Dhaka",
-  "gregorian": "2026-02-17",
+  "gregorian": "2026-02-18",
   "hijri": {
-    "day": 29,
-    "month_number": 8,
-    "month_en": "Sha’ban",
-    "month_bn": "শা'বান",
+    "day": 1,
+    "month_number": 9,
+    "month_en": "Ramadhan",
+    "month_bn": "রমাদান",
     "year": 1447,
-    "full_bn": "29 শা'বান 1447 হিজরী",
-    "full_en": "29 Sha’ban 1447 AH",
-    "date": "1447-08-29"
+    "full_bn": "1 রমাদান 1447 হিজরী",
+    "full_en": "1 Ramadhan 1447 AH",
+    "date": "1447-09-01"
   },
-  "updated_at": "2026-02-17T07:29:36.236540+06:00"
+  "updated_at": "2026-02-18T00:45:41.812772+06:00"
 }
