@@ -3,14 +3,14 @@
   "timezone": "Asia/Dhaka",
   "gregorian": "2026-02-25",
   "hijri": {
-    "day": 8,
+    "day": 7,
     "month_number": 9,
     "month_en": "Ramadhan",
     "month_bn": "রমাদান",
     "year": 1447,
-    "full_bn": "8 রমাদান 1447 হিজরী",
-    "full_en": "8 Ramadhan 1447 AH",
-    "date": "1447-09-08"
+    "full_bn": "7 রমাদান 1447 হিজরী",
+    "full_en": "7 Ramadhan 1447 AH",
+    "date": "1447-09-07"
   },
-  "updated_at": "2026-02-25T01:48:47.433957+06:00"
+  "updated_at": "2026-02-25T05:15:47.156191+06:00"
 }
