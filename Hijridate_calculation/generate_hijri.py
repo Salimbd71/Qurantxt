@@ -21,6 +21,14 @@ g_day = today.day
 # 🔹 Convert to Hijri (Umm al-Qura)
 hijri = Gregorian(g_year, g_month, g_day).to_hijri()
 
+# Convert to Gregorian → minus 1 day → back to Hijri
+adjusted_gregorian = hijri.to_gregorian() - timedelta(days=1)
+hijri = Gregorian(
+    adjusted_gregorian.year,
+    adjusted_gregorian.month,
+    adjusted_gregorian.day
+).to_hijri()
+
 # 🔹 Bangla month names
 bangla_months = [
     "মুহাররম", "সফর", "রবিউল আউয়াল", "রবিউস সানি",
