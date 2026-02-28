@@ -1,16 +1,16 @@
 {
   "status": "success",
   "timezone": "Asia/Dhaka",
-  "gregorian": "2026-02-28",
+  "gregorian": "2026-03-01",
   "hijri": {
-    "day": 10,
+    "day": 11,
     "month_number": 9,
     "month_en": "Ramadhan",
     "month_bn": "রমাদান",
     "year": 1447,
-    "full_bn": "10 রমাদান 1447 হিজরী",
-    "full_en": "10 Ramadhan 1447 AH",
-    "date": "1447-09-10"
+    "full_bn": "11 রমাদান 1447 হিজরী",
+    "full_en": "11 Ramadhan 1447 AH",
+    "date": "1447-09-11"
   },
-  "updated_at": "2026-02-28T07:20:03.163524+06:00"
+  "updated_at": "2026-03-01T00:22:02.766128+06:00"
 }
