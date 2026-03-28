@@ -1,16 +1,16 @@
 {
   "status": "success",
   "timezone": "Asia/Dhaka",
-  "gregorian": "2026-03-28",
+  "gregorian": "2026-03-29",
   "hijri": {
-    "day": 8,
+    "day": 9,
     "month_number": 10,
     "month_en": "Shawwal",
     "month_bn": "শাওয়াল",
     "year": 1447,
-    "full_bn": "8 শাওয়াল 1447 হিজরী",
-    "full_en": "8 Shawwal 1447 AH",
-    "date": "1447-10-08"
+    "full_bn": "9 শাওয়াল 1447 হিজরী",
+    "full_en": "9 Shawwal 1447 AH",
+    "date": "1447-10-09"
   },
-  "updated_at": "2026-03-28T07:42:59.363633+06:00"
+  "updated_at": "2026-03-29T00:29:15.695236+06:00"
 }
