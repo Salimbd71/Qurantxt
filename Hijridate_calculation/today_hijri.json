@@ -1,16 +1,16 @@
 {
   "status": "success",
   "timezone": "Asia/Dhaka",
-  "gregorian": "2026-05-14",
+  "gregorian": "2026-05-15",
   "hijri": {
-    "day": 26,
+    "day": 27,
     "month_number": 11,
     "month_en": "Dhu al-Qi’dah",
     "month_bn": "ধুল কদ",
     "year": 1447,
-    "full_bn": "26 ধুল কদ 1447 হিজরী",
-    "full_en": "26 Dhu al-Qi’dah 1447 AH",
-    "date": "1447-11-26"
+    "full_bn": "27 ধুল কদ 1447 হিজরী",
+    "full_en": "27 Dhu al-Qi’dah 1447 AH",
+    "date": "1447-11-27"
   },
-  "updated_at": "2026-05-14T08:35:50.083895+06:00"
+  "updated_at": "2026-05-15T01:28:42.553887+06:00"
 }
