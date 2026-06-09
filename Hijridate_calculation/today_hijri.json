@@ -1,16 +1,16 @@
 {
   "status": "success",
   "timezone": "Asia/Dhaka",
-  "gregorian": "2026-06-09",
+  "gregorian": "2026-06-10",
   "hijri": {
-    "day": 22,
+    "day": 23,
     "month_number": 12,
     "month_en": "Dhu al-Hijjah",
     "month_bn": "ধুল হিজ্জা",
     "year": 1447,
-    "full_bn": "22 ধুল হিজ্জা 1447 হিজরী",
-    "full_en": "22 Dhu al-Hijjah 1447 AH",
-    "date": "1447-12-22"
+    "full_bn": "23 ধুল হিজ্জা 1447 হিজরী",
+    "full_en": "23 Dhu al-Hijjah 1447 AH",
+    "date": "1447-12-23"
   },
-  "updated_at": "2026-06-09T08:34:14.190681+06:00"
+  "updated_at": "2026-06-10T01:57:54.656861+06:00"
 }
