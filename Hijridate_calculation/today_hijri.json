@@ -1,16 +1,16 @@
 {
   "status": "success",
   "timezone": "Asia/Dhaka",
-  "gregorian": "2026-07-02",
+  "gregorian": "2026-07-03",
   "hijri": {
-    "day": 16,
+    "day": 17,
     "month_number": 1,
     "month_en": "Muharram",
     "month_bn": "মুহাররম",
     "year": 1448,
-    "full_bn": "16 মুহাররম 1448 হিজরী",
-    "full_en": "16 Muharram 1448 AH",
-    "date": "1448-01-16"
+    "full_bn": "17 মুহাররম 1448 হিজরী",
+    "full_en": "17 Muharram 1448 AH",
+    "date": "1448-01-17"
   },
-  "updated_at": "2026-07-02T08:40:23.087594+06:00"
+  "updated_at": "2026-07-03T01:11:50.576454+06:00"
 }
