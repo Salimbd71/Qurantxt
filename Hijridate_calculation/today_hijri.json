@@ -1,16 +1,16 @@
 {
   "status": "success",
   "timezone": "Asia/Dhaka",
-  "gregorian": "2026-07-28",
+  "gregorian": "2026-07-29",
   "hijri": {
-    "day": 13,
+    "day": 14,
     "month_number": 2,
     "month_en": "Safar",
     "month_bn": "সফর",
     "year": 1448,
-    "full_bn": "13 সফর 1448 হিজরী",
-    "full_en": "13 Safar 1448 AH",
-    "date": "1448-02-13"
+    "full_bn": "14 সফর 1448 হিজরী",
+    "full_en": "14 Safar 1448 AH",
+    "date": "1448-02-14"
   },
-  "updated_at": "2026-07-28T07:56:17.019214+06:00"
+  "updated_at": "2026-07-29T01:10:38.630076+06:00"
 }
