@@ -1,16 +1,16 @@
 {
   "status": "success",
   "timezone": "Asia/Dhaka",
-  "gregorian": "2026-09-02",
+  "gregorian": "2026-09-03",
   "hijri": {
-    "day": 19,
+    "day": 20,
     "month_number": 3,
     "month_en": "Rabi’ al-Awwal",
     "month_bn": "রবিউল আউয়াল",
     "year": 1448,
-    "full_bn": "19 রবিউল আউয়াল 1448 হিজরী",
-    "full_en": "19 Rabi’ al-Awwal 1448 AH",
-    "date": "1448-03-19"
+    "full_bn": "20 রবিউল আউয়াল 1448 হিজরী",
+    "full_en": "20 Rabi’ al-Awwal 1448 AH",
+    "date": "1448-03-20"
   },
-  "updated_at": "2026-09-02T08:21:57.773752+06:00"
+  "updated_at": "2026-09-03T02:20:00.364872+06:00"
 }
