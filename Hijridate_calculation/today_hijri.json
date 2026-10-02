@@ -1,16 +1,16 @@
 {
   "status": "success",
   "timezone": "Asia/Dhaka",
-  "gregorian": "2026-10-02",
+  "gregorian": "2026-10-03",
   "hijri": {
-    "day": 20,
+    "day": 21,
     "month_number": 4,
     "month_en": "Rabi’ al-Thani",
     "month_bn": "রবিউস সানি",
     "year": 1448,
-    "full_bn": "20 রবিউস সানি 1448 হিজরী",
-    "full_en": "20 Rabi’ al-Thani 1448 AH",
-    "date": "1448-04-20"
+    "full_bn": "21 রবিউস সানি 1448 হিজরী",
+    "full_en": "21 Rabi’ al-Thani 1448 AH",
+    "date": "1448-04-21"
   },
-  "updated_at": "2026-10-02T09:33:24.420098+06:00"
+  "updated_at": "2026-10-03T03:38:19.435185+06:00"
 }
