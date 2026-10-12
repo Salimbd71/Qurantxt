@@ -1,16 +1,16 @@
 {
   "status": "success",
   "timezone": "Asia/Dhaka",
-  "gregorian": "2026-10-12",
+  "gregorian": "2026-10-13",
   "hijri": {
-    "day": 30,
-    "month_number": 4,
-    "month_en": "Rabi’ al-Thani",
-    "month_bn": "রবিউস সানি",
+    "day": 1,
+    "month_number": 5,
+    "month_en": "Jumada al-Ula",
+    "month_bn": "জমাদিউল আউয়াল",
     "year": 1448,
-    "full_bn": "30 রবিউস সানি 1448 হিজরী",
-    "full_en": "30 Rabi’ al-Thani 1448 AH",
-    "date": "1448-04-30"
+    "full_bn": "1 জমাদিউল আউয়াল 1448 হিজরী",
+    "full_en": "1 Jumada al-Ula 1448 AH",
+    "date": "1448-05-01"
   },
-  "updated_at": "2026-10-12T09:45:00.503409+06:00"
+  "updated_at": "2026-10-13T05:59:14.077326+06:00"
 }
