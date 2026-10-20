@@ -1,16 +1,16 @@
 {
   "status": "success",
   "timezone": "Asia/Dhaka",
-  "gregorian": "2026-10-20",
+  "gregorian": "2026-10-21",
   "hijri": {
-    "day": 8,
+    "day": 9,
     "month_number": 5,
     "month_en": "Jumada al-Ula",
     "month_bn": "জমাদিউল আউয়াল",
     "year": 1448,
-    "full_bn": "8 জমাদিউল আউয়াল 1448 হিজরী",
-    "full_en": "8 Jumada al-Ula 1448 AH",
-    "date": "1448-05-08"
+    "full_bn": "9 জমাদিউল আউয়াল 1448 হিজরী",
+    "full_en": "9 Jumada al-Ula 1448 AH",
+    "date": "1448-05-09"
   },
-  "updated_at": "2026-10-20T08:57:26.907237+06:00"
+  "updated_at": "2026-10-21T03:03:00.955094+06:00"
 }
