@@ -1,16 +1,16 @@
 {
   "status": "success",
   "timezone": "Asia/Dhaka",
-  "gregorian": "2026-11-19",
+  "gregorian": "2026-11-20",
   "hijri": {
-    "day": 8,
+    "day": 9,
     "month_number": 6,
     "month_en": "Jumada al-Akhirah",
     "month_bn": "জমাদিউস সানি",
     "year": 1448,
-    "full_bn": "8 জমাদিউস সানি 1448 হিজরী",
-    "full_en": "8 Jumada al-Akhirah 1448 AH",
-    "date": "1448-06-08"
+    "full_bn": "9 জমাদিউস সানি 1448 হিজরী",
+    "full_en": "9 Jumada al-Akhirah 1448 AH",
+    "date": "1448-06-09"
   },
-  "updated_at": "2026-11-19T11:28:11.186662+06:00"
+  "updated_at": "2026-11-20T06:03:33.937960+06:00"
 }
